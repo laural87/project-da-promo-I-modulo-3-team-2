@@ -23,13 +23,13 @@
 21,33,No,,515.0,,1,2,Life sciences,1,F,98.0,3,3,Research director,4,Single,,15146,1,Yes,12,3.0,3,0,15.0,1,3.0,15,,8,12,1990,Yes
 22,36,No,,1223.0,,8,3,,3,F,59.0,3,3,Healthcare representative,3,Divorced,,8202,1,,13,,2,3,17.0,2,3.0,17,,12,8,1987,Yes
 23,47,No,,202.0,,2,2,Other,3,F,33.0,3,4,Manager,4,Married,16752.0,12982,1,,11,3.0,3,1,,3,2.0,26,,3,0,1976,No
-24,36,No,Travel rarely,928.0,,42,2,Life sciences,42,M,56.0,3,2,Sales executive,4,,6201.0,2823,1,,14,3.0,4,1,18.0,1,,18,,4,11,1987,Yes
+24,36,No,Travel rarely,928.0,,42,2,Life sciences,4,M,56.0,3,2,Sales executive,4,,6201.0,2823,1,,14,3.0,4,1,18.0,1,,18,,4,11,1987,Yes
 25,35,No,,607.0,,9,3,Life sciences,4,F,66.0,2,3,Manufacturing director,3,Married,,23457,1,Yes,20,4.0,2,1,17.0,2,3.0,17,,5,15,1988,No
 26,52,Yes,,266.0,,2,1,,1,F,57.0,1,5,Manager,4,Married,19845.0,25846,1,No,15,3.0,4,1,33.0,3,3.0,32,,6,9,1971,Yes
 27,36,No,,429.0,,2,4,Life sciences,3,F,53.0,3,2,Manufacturing director,2,Single,,2323,9,Yes,11,3.0,4,0,18.0,2,3.0,16,,5,12,1987,No
 28,33,No,Travel rarely,589.0,,28,4,Life sciences,2,M,79.0,3,2,Laboratory technician,3,Married,,22949,1,,12,3.0,2,1,15.0,3,3.0,15,,5,7,1990,Yes
 29,34,No,Non travel,,Sales,10,3,Life sciences,4,M,87.0,3,2,Sales executive,3,,4001.0,12313,1,Yes,14,3.0,3,1,15.0,3,3.0,15,,0,7,1989,Yes
-30,41,No,,,Sales,37,1,,37,F,81.0,3,3,Sales executive,3,Divorced,10447.0,26458,0,,13,3.0,4,1,,3,4.0,22,,13,5,1982,Yes
+30,41,No,,,Sales,37,1,,3,F,81.0,3,3,Sales executive,3,Divorced,10447.0,26458,0,,13,3.0,4,1,,3,4.0,22,,13,5,1982,Yes
 31,47,No,,1180.0,Research & development,25,3,Medical,1,M,84.0,3,3,Healthcare representative,3,,,13084,2,,23,4.0,2,0,25.0,3,3.0,17,,12,11,1976,Yes
 32,53,No,Travel rarely,1282.0,,5,3,,3,F,58.0,3,5,Manager,3,,,10735,4,,11,3.0,4,1,26.0,3,2.0,14,,4,8,1970,Yes
 33,35,No,,776.0,,1,4,Marketing,3,M,32.0,2,2,Sales executive,1,Single,,23016,0,No,14,,2,0,16.0,2,3.0,15,,2,8,1988,No
@@ -40,7 +40,7 @@
 38,60,No,Travel frequently,1499.0,,28,3,,3,F,80.0,2,3,Sales executive,1,Married,10266.0,2845,4,No,19,3.0,4,0,22.0,5,4.0,18,13.0,13,11,1963,Yes
 39,40,No,Travel frequently,580.0,,5,4,,4,M,48.0,2,3,Sales executive,1,Married,10475.0,23772,5,Yes,21,4.0,3,1,20.0,2,3.0,18,,1,12,1983,No
 40,32,No,Travel rarely,859.0,,4,3,,3,F,98.0,2,2,Manufacturing director,3,Married,6162.0,19124,1,No,12,3.0,3,1,14.0,3,3.0,14,,6,8,1991,No
-41,41,No,Travel rarely,263.0,,35,3,,35,M,59.0,3,1,Laboratory technician,1,Single,4721.0,3119,2,Yes,13,,3,0,20.0,3,3.0,18,,2,17,1982,Yes
+41,41,No,Travel rarely,263.0,,35,3,,3,M,59.0,3,1,Laboratory technician,1,Single,4721.0,3119,2,Yes,13,,3,0,20.0,3,3.0,18,,2,17,1982,Yes
 42,53,No,,1376.0,,2,2,Medical,3,M,,3,4,Manager,3,Divorced,,13938,6,No,13,3.0,3,1,22.0,3,4.0,17,,15,2,1970,No
 43,36,Yes,Travel rarely,885.0,,16,4,,3,F,43.0,4,1,Laboratory technician,1,Single,,8269,1,,16,3.0,3,0,18.0,1,3.0,17,,15,14,1987,Yes
 44,46,No,,1003.0,,8,4,Life sciences,4,F,74.0,2,2,Research scientist,1,Divorced,4615.0,21029,8,Yes,23,4.0,1,3,,2,3.0,16,,1,7,1977,No
@@ -67,7 +67,7 @@
 65,48,No,Travel rarely,1355.0,,4,4,,3,M,78.0,2,3,Healthcare representative,3,Single,,22245,7,,14,,2,0,27.0,3,3.0,15,11.0,4,8,1975,Yes
 66,44,No,Travel rarely,1448.0,Sales,28,3,,4,F,53.0,4,4,Sales executive,4,Married,13320.0,11737,3,,18,3.0,3,1,,2,3.0,12,,11,11,1979,Yes
 67,44,No,Travel rarely,200.0,,29,4,,4,M,32.0,3,2,Research scientist,4,Single,,7744,1,,25,4.0,2,0,,3,3.0,20,,13,17,1979,Yes
-68,40,No,,1202.0,,25,1,,25,F,89.0,4,2,Healthcare representative,3,,,13888,5,No,20,4.0,2,3,15.0,0,3.0,12,,11,8,1983,Yes
+68,40,No,,1202.0,,25,1,,2,F,89.0,4,2,Healthcare representative,3,,,13888,5,No,20,4.0,2,3,15.0,0,3.0,12,,11,8,1983,Yes
 69,34,No,Travel rarely,404.0,,2,4,,3,F,98.0,3,2,Healthcare representative,4,Single,6687.0,6163,1,,11,3.0,4,0,14.0,2,4.0,14,,4,11,1989,Yes
 70,35,No,Non travel,208.0,Research & development,8,4,,3,F,52.0,3,2,Healthcare representative,3,,,12250,1,,12,3.0,4,1,,5,3.0,14,,2,9,1988,Yes
 71,50,No,,813.0,,17,5,Life sciences,4,F,50.0,2,3,Research director,1,,,21981,5,No,15,3.0,3,3,,3,3.0,14,11.0,1,11,1973,No
@@ -89,7 +89,7 @@
 87,38,No,,,,15,2,Life sciences,3,M,92.0,2,3,Research director,4,,11510.0,15682,0,,14,3.0,2,1,,3,3.0,11,,2,9,1985,Yes
 88,43,No,,982.0,,12,3,,1,M,59.0,2,4,Research director,2,,,4345,1,No,11,3.0,3,1,,3,,25,,3,9,1980,Yes
 89,31,No,,480.0,,30,2,,2,F,31.0,3,2,Manufacturing director,1,Married,4306.0,4156,1,No,12,3.0,2,1,13.0,5,1.0,13,,3,12,1992,Yes
-90,50,No,Travel rarely,1099.0,Research & development,27,4,Life sciences,27,M,88.0,2,4,Manager,3,Married,17046.0,9314,0,No,15,3.0,2,1,28.0,2,3.0,27,,15,7,1973,Yes
+90,50,No,Travel rarely,1099.0,Research & development,27,4,Life sciences,2,M,88.0,2,4,Manager,3,Married,17046.0,9314,0,No,15,3.0,2,1,28.0,2,3.0,27,,15,7,1973,Yes
 91,35,No,,672.0,,25,3,Technical degree,4,M,78.0,2,3,Manufacturing director,2,Married,,9129,3,No,16,,1,0,,2,3.0,13,,4,8,1988,No
 92,47,No,,1379.0,,16,4,,3,M,64.0,4,2,Manufacturing director,3,,5067.0,6759,1,Yes,19,3.0,3,0,20.0,3,,19,,2,7,1976,Yes
 93,35,No,,583.0,Research & development,25,4,,3,F,57.0,3,3,Healthcare representative,3,Divorced,,6975,1,Yes,11,,3,1,,3,2.0,16,,10,1,1988,Yes
@@ -98,14 +98,14 @@
 96,33,No,,117.0,Research & development,9,3,Medical,1,M,60.0,3,1,Research scientist,4,Married,,6311,0,,13,3.0,2,1,15.0,5,3.0,14,,4,10,1990,No
 97,36,No,Travel frequently,469.0,,3,3,,3,M,46.0,3,1,Research scientist,2,Married,3692.0,9256,1,No,12,3.0,3,0,12.0,2,2.0,11,,0,7,1987,No
 98,45,Yes,,,,13,3,Marketing,1,F,94.0,1,5,Manager,2,,,2493,2,Yes,16,3.0,1,0,26.0,2,3.0,24,,1,11,1978,Yes
-99,51,No,Travel frequently,237.0,,27,3,,27,M,83.0,3,5,Manager,2,,19847.0,19196,4,Yes,24,,1,1,,5,2.0,29,,11,10,1972,No
+99,51,No,Travel frequently,237.0,,27,3,,2,M,83.0,3,5,Manager,2,,19847.0,19196,4,Yes,24,,1,1,,5,2.0,29,,11,10,1972,No
 100,34,No,Travel rarely,1440.0,,7,2,Technical degree,2,M,55.0,3,1,Sales representative,3,,2308.0,4944,0,Yes,25,4.0,2,1,12.0,4,3.0,11,,5,7,1989,No
 101,43,No,Travel rarely,1291.0,Research & development,15,2,,3,M,65.0,2,4,Research director,3,,,3525,1,No,24,4.0,1,1,,3,3.0,14,,6,11,1980,Yes
 102,34,No,,1157.0,,5,2,Medical,2,M,57.0,2,2,Laboratory technician,4,,,11912,1,No,14,3.0,3,1,,3,,15,,4,13,1989,No
 103,38,No,,1336.0,,2,3,,1,M,100.0,3,1,Human resources,2,Divorced,,7129,5,No,13,3.0,4,3,13.0,3,3.0,11,,3,8,1985,Yes
 104,48,No,,1224.0,,10,3,,4,M,91.0,2,5,Research director,2,,,13583,4,No,12,3.0,4,0,29.0,3,3.0,22,,12,9,1975,No
 105,34,No,,735.0,Research & development,22,4,Other,3,M,86.0,2,2,Research scientist,4,Married,5747.0,26496,1,Yes,15,3.0,2,0,16.0,3,3.0,15,,6,11,1989,No
-106,32,No,Travel rarely,,,31,4,,31,F,48.0,3,3,Sales executive,4,,10422.0,24032,1,No,19,3.0,3,2,14.0,3,3.0,14,,5,7,1991,Yes
+106,32,No,Travel rarely,,,31,4,,3,F,48.0,3,3,Sales executive,4,,10422.0,24032,1,No,19,3.0,3,2,14.0,3,3.0,14,,5,7,1991,Yes
 107,29,No,Travel rarely,1389.0,,21,4,Life sciences,2,F,51.0,4,3,Manufacturing director,1,Divorced,,10195,1,No,11,3.0,3,1,10.0,1,3.0,10,,8,8,1994,No
 108,46,No,,638.0,,1,3,Medical,3,M,40.0,2,3,Healthcare representative,1,Married,,3142,2,Yes,13,3.0,3,1,21.0,5,2.0,10,,9,5,1977,No
 109,30,No,,1240.0,Human resources,9,3,,3,M,48.0,3,2,Human resources,4,Married,6347.0,13982,0,Yes,19,3.0,4,0,,2,1.0,11,,4,7,1993,No
@@ -114,7 +114,7 @@
 112,30,No,,111.0,,9,3,,3,M,66.0,3,2,Laboratory technician,1,,3072.0,11012,1,No,11,,3,2,12.0,4,3.0,12,,6,10,1993,Yes
 113,34,No,Travel frequently,,,29,1,,4,M,45.0,2,2,Manufacturing director,3,Married,,14074,1,,17,3.0,3,0,10.0,2,2.0,10,,1,9,1989,No
 114,51,No,Travel rarely,1469.0,,8,4,Life sciences,2,M,81.0,2,3,Research director,2,Married,12490.0,15736,5,No,16,3.0,4,2,16.0,5,1.0,10,,4,7,1972,No
-115,34,No,,470.0,,39,4,Life sciences,39,M,84.0,2,2,Manufacturing director,1,,,23687,6,,13,3.0,2,1,13.0,3,3.0,11,,5,9,1989,Yes
+115,34,No,,470.0,,39,4,Life sciences,3,M,84.0,2,2,Manufacturing director,1,,,23687,6,,13,3.0,2,1,13.0,3,3.0,11,,5,9,1989,Yes
 116,35,No,Travel rarely,1232.0,,16,3,,3,M,96.0,3,3,Sales executive,2,Married,8020.0,5100,0,,15,3.0,3,2,12.0,3,2.0,11,,6,9,1988,Yes
 117,45,No,Travel frequently,1249.0,,7,3,Life sciences,1,M,97.0,3,3,Laboratory technician,1,,,20308,1,,18,3.0,1,1,24.0,2,3.0,24,,9,11,1978,Yes
 118,39,No,,117.0,,10,1,,3,M,99.0,3,4,Manager,1,Married,17068.0,5355,1,,14,,4,0,21.0,3,3.0,21,,11,10,1984,Yes
@@ -135,11 +135,11 @@
 133,33,No,,213.0,Research & development,7,3,Medical,3,M,49.0,3,3,Research director,3,Married,,25995,0,No,11,3.0,4,0,,3,4.0,13,,3,7,1990,Yes
 134,53,No,Travel rarely,,,23,4,,4,F,72.0,3,4,Research director,4,,,20206,6,No,18,3.0,3,0,33.0,0,3.0,12,,3,8,1970,Yes
 135,49,No,Travel rarely,527.0,,8,2,Other,1,F,51.0,3,3,Laboratory technician,2,Married,7403.0,22477,4,,11,3.0,3,1,29.0,3,2.0,26,,1,7,1974,No
-136,35,No,,882.0,,21,4,,21,M,,3,3,Sales executive,4,,,6812,6,,13,3.0,2,1,,2,3.0,10,,0,8,1988,No
+136,35,No,,882.0,,21,4,,2,M,,3,3,Sales executive,4,,,6812,6,,13,3.0,2,1,,2,3.0,10,,0,8,1988,No
 137,38,No,Travel rarely,330.0,,17,1,Life sciences,3,F,65.0,2,3,Healthcare representative,3,Married,8823.0,24608,0,,18,3.0,1,1,20.0,4,2.0,19,,1,9,1985,No
 138,46,No,,406.0,Sales,3,1,Marketing,1,M,,3,4,Manager,3,Married,,15596,3,No,12,3.0,4,1,,3,3.0,12,,4,9,1977,No
 139,36,No,Non travel,217.0,,18,4,,1,M,78.0,3,2,Manufacturing director,4,Single,,23238,2,,20,4.0,1,0,18.0,0,3.0,11,,0,9,1987,No
-140,42,Yes,Travel frequently,481.0,,15,3,Life sciences,15,M,44.0,3,4,Sales executive,1,Single,,2447,0,,12,,2,0,,2,2.0,21,,13,14,1981,Yes
+140,42,Yes,Travel frequently,481.0,,15,3,Life sciences,1,M,44.0,3,4,Sales executive,1,Single,,2447,0,,12,,2,0,,2,2.0,21,,13,14,1981,Yes
 141,34,No,Travel frequently,669.0,,1,3,,4,M,97.0,2,2,Healthcare representative,1,Single,,25755,0,No,20,4.0,3,0,14.0,3,3.0,13,,4,9,1989,Yes
 142,30,No,Travel rarely,1465.0,Research & development,1,3,Medical,4,M,63.0,3,1,Research scientist,2,,3579.0,9369,0,Yes,21,4.0,1,1,12.0,2,3.0,11,,5,7,1993,Yes
 143,54,No,Travel rarely,685.0,,3,3,Life sciences,4,M,85.0,3,4,Research director,4,Married,17779.0,23474,3,No,14,3.0,1,0,36.0,2,3.0,10,,0,9,1969,Yes
@@ -151,7 +151,7 @@
 149,39,No,,412.0,,13,4,,3,F,94.0,2,4,Manager,2,Divorced,17123.0,17334,6,Yes,13,3.0,4,2,,4,3.0,19,,15,2,1984,No
 150,55,No,Travel rarely,282.0,,2,2,Medical,4,F,58.0,1,5,Manager,3,,19187.0,6992,4,,14,,4,1,23.0,5,3.0,19,,9,11,1968,Yes
 151,51,No,,770.0,,5,3,Life sciences,3,M,84.0,3,4,Manager,2,,,17588,1,,11,3.0,2,1,,2,3.0,33,,0,10,1972,Yes
-152,58,Yes,,601.0,,14,4,Medical,14,F,53.0,2,3,Manufacturing director,1,Married,10008.0,12023,7,,14,3.0,4,0,,0,2.0,10,,5,9,1965,Yes
+152,58,Yes,,601.0,,14,4,Medical,1,F,53.0,2,3,Manufacturing director,1,Married,10008.0,12023,7,,14,3.0,4,0,,0,2.0,10,,5,9,1965,Yes
 153,48,No,,855.0,,4,3,Life sciences,4,M,54.0,3,3,Manufacturing director,4,Single,,18706,1,No,11,3.0,3,0,11.0,2,3.0,10,,0,8,1975,Yes
 154,29,No,Travel rarely,332.0,Human resources,17,3,,2,M,51.0,2,3,Human resources,1,Single,7988.0,9769,1,,13,3.0,1,0,,3,2.0,10,,0,9,1994,No
 155,34,No,,1326.0,,3,3,Other,4,M,81.0,1,2,Sales executive,1,Single,,15891,3,No,18,,4,0,15.0,2,3.0,13,,3,12,1989,Yes
@@ -166,13 +166,13 @@
 164,34,No,Travel rarely,678.0,,19,3,Life sciences,2,F,35.0,2,1,Research scientist,4,Married,2929.0,20338,1,No,12,3.0,2,0,10.0,3,3.0,10,,8,7,1989,Yes
 165,43,No,,1179.0,,2,3,,4,M,73.0,3,2,Sales executive,4,,,6069,1,Yes,17,3.0,1,1,10.0,3,3.0,10,,8,8,1980,No
 166,58,No,Non travel,350.0,,2,3,Medical,2,M,52.0,3,4,Manager,2,Divorced,,22577,4,No,22,4.0,4,1,37.0,0,2.0,16,,14,14,1965,Yes
-167,36,No,Travel rarely,1266.0,Sales,14,4,,14,F,63.0,2,2,Sales executive,3,Married,,6060,1,Yes,13,3.0,1,1,10.0,4,3.0,10,,1,7,1987,No
+167,36,No,Travel rarely,1266.0,Sales,14,4,,1,F,63.0,2,2,Sales executive,3,Married,,6060,1,Yes,13,3.0,1,1,10.0,4,3.0,10,,1,7,1987,No
 168,43,No,Travel rarely,574.0,,11,3,Life sciences,1,M,30.0,3,3,Healthcare representative,3,Married,,16873,1,,17,3.0,2,1,10.0,1,3.0,10,,0,9,1980,Yes
 169,55,No,,189.0,,26,4,Human resources,3,M,71.0,4,5,Manager,2,Married,,25811,4,Yes,18,3.0,1,1,35.0,0,3.0,10,,1,4,1968,Yes
 170,42,No,,,Research & development,23,2,,4,M,37.0,2,2,Research scientist,3,Single,,14811,1,,12,3.0,4,0,20.0,2,3.0,20,,3,7,1981,Yes
 171,40,No,,692.0,,11,3,Technical degree,4,F,73.0,3,2,Laboratory technician,3,Married,,26849,1,,11,,1,1,10.0,2,4.0,10,,9,4,1983,Yes
 172,56,Yes,,310.0,Research & development,7,2,Technical degree,4,M,72.0,3,1,Laboratory technician,3,Married,,3666,8,No,11,3.0,4,1,14.0,4,1.0,10,,9,8,1967,Yes
-173,39,No,Travel rarely,722.0,,33,1,Marketing,33,F,60.0,2,4,Sales executive,4,,12031.0,8828,0,,11,3.0,1,1,,2,2.0,20,,9,6,1984,Yes
+173,39,No,Travel rarely,722.0,,33,1,Marketing,3,F,60.0,2,4,Sales executive,4,,12031.0,8828,0,,11,3.0,1,1,,2,2.0,20,,9,6,1984,Yes
 174,53,No,Travel rarely,1219.0,,2,4,Life sciences,1,F,78.0,2,4,Manager,4,Married,15427.0,22021,2,No,16,3.0,3,0,,3,3.0,25,,3,7,1970,Yes
 175,27,No,Travel frequently,994.0,,8,3,,4,M,37.0,3,3,Sales executive,3,Single,,2975,1,No,15,3.0,4,0,9.0,0,3.0,9,,1,7,1996,No
 176,30,No,Travel frequently,721.0,,1,2,,3,F,58.0,3,2,Laboratory technician,4,,,10781,1,,23,4.0,4,0,12.0,2,,12,,3,7,1993,Yes
@@ -263,7 +263,7 @@
 261,47,No,,,Research & development,1,1,,3,F,98.0,3,3,Research director,2,Married,,17231,0,No,18,3.0,1,2,14.0,3,1.0,13,,5,12,1976,Yes
 262,52,No,Non travel,585.0,,29,4,,1,M,,3,1,Sales representative,4,Divorced,,19788,2,,15,3.0,2,2,16.0,3,,9,,0,0,1971,Yes
 263,49,No,Travel frequently,,,8,1,,3,M,61.0,2,2,Research scientist,2,Married,,24907,1,No,23,4.0,4,1,10.0,3,3.0,10,,1,7,1974,Yes
-264,33,No,Travel frequently,1392.0,,19,4,Life sciences,19,F,56.0,3,1,Research scientist,3,Married,2909.0,23159,1,,11,3.0,3,0,,3,3.0,8,,3,0,1990,Yes
+264,33,No,Travel frequently,1392.0,,19,4,Life sciences,1,F,56.0,3,1,Research scientist,3,Married,2909.0,23159,1,,11,3.0,3,0,,3,3.0,8,,3,0,1990,Yes
 265,32,No,,1005.0,,2,2,Life sciences,4,M,79.0,3,1,Laboratory technician,4,,,11864,0,,13,3.0,3,0,8.0,2,2.0,7,,3,6,1991,Yes
 266,38,No,Travel frequently,,Research & development,23,3,,4,M,44.0,2,3,Manufacturing director,3,,9526.0,8787,0,No,21,4.0,2,0,,2,3.0,9,,1,8,1985,Yes
 267,36,No,Travel rarely,1299.0,Research & development,27,3,Medical,3,M,94.0,3,2,Healthcare representative,3,,,16577,6,,13,3.0,2,2,17.0,3,2.0,7,,7,7,1987,Yes
@@ -274,7 +274,7 @@
 272,34,Yes,Travel frequently,658.0,,7,3,,1,M,66.0,1,2,Laboratory technician,3,,6074.0,22887,1,Yes,24,4.0,4,0,9.0,3,,9,,0,6,1989,Yes
 273,36,No,,1467.0,,11,2,Technical degree,2,F,92.0,3,3,Sales executive,4,,,22952,0,No,14,3.0,3,1,10.0,6,3.0,9,,2,8,1987,No
 274,30,No,Travel frequently,1312.0,,23,3,,1,M,96.0,1,1,Research scientist,3,Divorced,,22310,1,No,25,4.0,3,3,,2,2.0,10,,0,9,1993,No
-275,33,No,Non travel,750.0,,12,2,,12,M,95.0,3,2,Sales executive,2,Married,6146.0,15480,0,,13,3.0,1,1,,2,4.0,7,7.0,0,7,1990,Yes
+275,33,No,Non travel,750.0,,12,2,,1,M,95.0,3,2,Sales executive,2,Married,6146.0,15480,0,,13,3.0,1,1,,2,4.0,7,7.0,0,7,1990,Yes
 276,31,Yes,,249.0,,6,4,Life sciences,2,M,76.0,1,2,Sales executive,3,Married,6172.0,20739,4,,18,3.0,2,0,,3,2.0,7,,7,7,1992,No
 277,41,No,Travel rarely,802.0,,23,1,,3,M,96.0,3,3,Sales executive,3,Divorced,,21196,3,Yes,13,3.0,3,1,,2,3.0,9,,0,7,1982,No
 278,26,No,Travel rarely,1355.0,,25,1,,3,F,61.0,3,1,Human resources,3,,,8916,1,,23,4.0,4,1,8.0,3,3.0,8,,5,7,1997,Yes
@@ -296,7 +296,7 @@
 294,52,No,,771.0,,2,4,Life sciences,1,M,79.0,2,5,Manager,3,,,21030,1,Yes,18,3.0,4,0,33.0,2,4.0,33,,15,12,1971,Yes
 295,40,No,,1416.0,Research & development,2,2,Medical,1,M,49.0,3,5,Research director,3,,19436.0,5949,0,No,19,3.0,4,1,,5,3.0,21,,3,9,1983,Yes
 296,38,No,Non travel,1327.0,Sales,2,2,Life sciences,4,M,39.0,2,2,Sales executive,4,,,19682,3,No,18,3.0,4,1,13.0,0,3.0,8,,7,5,1985,Yes
-297,46,No,,488.0,,27,3,,27,F,75.0,1,4,Manager,2,Married,,14977,3,Yes,12,3.0,2,1,28.0,2,2.0,7,,7,7,1977,No
+297,46,No,,488.0,,27,3,,2,F,75.0,1,4,Manager,2,Married,,14977,3,Yes,12,3.0,2,1,28.0,2,2.0,7,,7,7,1977,No
 298,45,No,Travel rarely,1385.0,,20,2,Medical,3,M,79.0,3,4,Healthcare representative,4,Married,,7501,0,Yes,14,3.0,2,0,21.0,2,3.0,20,,4,10,1978,Yes
 299,47,Yes,Non travel,666.0,,10,4,Life sciences,1,M,88.0,3,3,Manager,2,Married,,10268,1,,12,3.0,4,1,,2,2.0,10,,9,9,1976,Yes
 300,35,No,,1315.0,,22,3,Life sciences,2,F,71.0,4,3,Manager,2,Divorced,,19100,7,,18,,2,1,10.0,6,2.0,7,,6,2,1988,No
@@ -344,7 +344,7 @@
 342,47,No,,703.0,,35,4,Marketing,4,M,42.0,3,2,Sales executive,1,Single,4960.0,11825,2,,12,3.0,4,0,20.0,2,3.0,7,,1,7,1976,No
 343,27,No,Travel frequently,294.0,,10,2,,4,M,32.0,3,3,Manufacturing director,1,,8793.0,4809,1,No,21,4.0,3,2,9.0,4,2.0,9,,1,7,1996,Yes
 344,41,No,,314.0,,1,3,,4,M,59.0,2,5,Manager,3,,19189.0,19562,1,No,12,,2,1,22.0,3,3.0,22,,2,10,1982,No
-345,28,Yes,,654.0,Research & development,35,2,,35,F,67.0,1,1,Research scientist,2,,2216.0,3872,7,Yes,13,3.0,4,0,10.0,4,3.0,7,,3,7,1995,Yes
+345,28,Yes,,654.0,Research & development,35,2,,3,F,67.0,1,1,Research scientist,2,,2216.0,3872,7,Yes,13,3.0,4,0,10.0,4,3.0,7,,3,7,1995,Yes
 346,36,No,,427.0,Research & development,8,3,,1,F,63.0,4,3,Research director,1,Married,11713.0,20335,9,,14,3.0,1,1,10.0,2,3.0,8,,0,5,1987,No
 347,30,No,,501.0,,27,5,Marketing,3,M,99.0,3,2,Sales executive,4,Divorced,5304.0,25275,7,No,23,,4,1,10.0,2,2.0,8,,7,7,1993,Yes
 348,56,No,Travel rarely,,,9,3,,3,M,81.0,3,4,Healthcare representative,4,Married,11103.0,20420,7,No,11,3.0,3,0,30.0,1,2.0,10,,1,1,1967,No
@@ -352,7 +352,7 @@
 350,36,No,Non travel,1434.0,,8,4,,1,M,76.0,2,3,Sales executive,1,Single,7587.0,14229,1,,15,3.0,2,0,10.0,1,3.0,10,,0,9,1987,No
 351,29,No,,657.0,,27,3,Medical,2,F,66.0,3,2,Healthcare representative,3,Married,4335.0,25549,4,No,12,3.0,1,1,11.0,3,2.0,8,,1,1,1994,Yes
 352,38,No,,240.0,,2,4,Life sciences,1,F,75.0,4,2,Manufacturing director,1,Single,5980.0,26085,6,,12,3.0,4,0,17.0,2,3.0,15,,4,12,1985,Yes
-353,40,No,,791.0,,13,2,Medical,13,F,38.0,4,2,Healthcare representative,2,,4244.0,9931,1,No,24,4.0,4,1,8.0,2,3.0,8,,3,7,1983,Yes
+353,40,No,,791.0,,13,2,Medical,1,F,38.0,4,2,Healthcare representative,2,,4244.0,9931,1,No,24,4.0,4,1,8.0,2,3.0,8,,3,7,1983,Yes
 354,42,No,Travel frequently,570.0,,8,3,,2,M,66.0,3,5,Manager,4,,,16225,1,No,13,3.0,2,1,24.0,4,2.0,24,,14,9,1981,Yes
 355,36,No,Travel rarely,676.0,,1,3,Other,3,F,35.0,3,2,Manufacturing director,2,,5228.0,23361,0,,15,3.0,1,1,,2,3.0,9,,0,5,1987,No
 356,29,No,Travel rarely,,,23,2,,3,M,81.0,4,1,Research scientist,3,Married,2700.0,23779,1,,24,4.0,3,1,10.0,3,3.0,10,,0,7,1994,Yes
@@ -362,11 +362,11 @@
 360,44,No,,661.0,,9,2,,2,M,61.0,3,1,Research scientist,1,,,7508,1,Yes,13,3.0,4,0,8.0,0,3.0,8,,7,1,1979,Yes
 361,41,Yes,,1085.0,Research & development,2,4,Life sciences,2,F,57.0,1,1,Laboratory technician,4,Divorced,,17725,4,Yes,13,3.0,3,1,,1,2.0,7,,1,0,1982,Yes
 362,31,No,Travel rarely,154.0,,7,4,,2,M,41.0,2,1,Sales representative,3,,2329.0,11737,3,,15,,2,0,,2,4.0,7,,5,2,1992,No
-363,26,No,Travel frequently,1283.0,Sales,28,3,Medical,28,M,52.0,2,2,Sales executive,1,,4294.0,11148,1,,12,3.0,2,0,,2,3.0,7,,0,7,1997,Yes
+363,26,No,Travel frequently,1283.0,Sales,28,3,Medical,2,M,52.0,2,2,Sales executive,1,,4294.0,11148,1,,12,3.0,2,0,,2,3.0,7,,0,7,1997,Yes
 364,31,No,,616.0,,12,3,Medical,4,F,41.0,3,2,Healthcare representative,4,,,17369,0,,11,3.0,3,2,10.0,2,1.0,9,,8,5,1992,No
 365,32,No,,498.0,,3,4,Medical,3,F,93.0,3,2,Manufacturing director,1,Married,6725.0,13554,1,,12,3.0,3,1,8.0,2,4.0,8,,6,3,1991,No
 366,36,Yes,Travel rarely,530.0,,3,1,Life sciences,3,M,51.0,2,3,Sales executive,4,Married,10325.0,5518,1,,11,,1,1,,6,3.0,16,,3,7,1987,No
-367,45,No,Non travel,805.0,,47,2,,47,M,57.0,3,2,Laboratory technician,2,,4447.0,23163,1,,12,3.0,2,0,,5,2.0,9,,0,8,1978,Yes
+367,45,No,Non travel,805.0,,47,2,,4,M,57.0,3,2,Laboratory technician,2,,4447.0,23163,1,,12,3.0,2,0,,5,2.0,9,,0,8,1978,Yes
 368,39,No,Travel rarely,903.0,,2,5,,1,M,41.0,4,3,Sales executive,3,Single,,2560,0,No,18,3.0,4,0,9.0,3,3.0,8,,0,7,1984,No
 369,36,No,Non travel,1229.0,,8,4,Technical degree,1,M,84.0,3,2,Sales executive,4,Divorced,,25952,4,No,13,,4,2,12.0,3,3.0,7,,0,7,1987,Yes
 370,46,No,,566.0,,7,2,Medical,4,M,,3,3,Manufacturing director,3,,10845.0,24208,6,,13,3.0,2,1,,3,3.0,8,,0,7,1977,No
@@ -382,10 +382,10 @@
 380,28,Yes,Non travel,1366.0,,24,2,,2,M,72.0,2,3,Healthcare representative,1,Single,,12355,1,No,12,3.0,1,0,10.0,2,2.0,10,,1,9,1995,No
 381,28,No,Travel rarely,857.0,,10,3,Other,3,F,59.0,3,2,Research scientist,3,Single,3660.0,7909,3,No,13,3.0,4,0,,4,4.0,8,,1,7,1995,Yes
 382,35,Yes,,1204.0,,4,3,Technical degree,4,M,86.0,3,3,Sales executive,1,,,10333,0,,22,4.0,1,0,9.0,2,3.0,8,,4,7,1988,Yes
-383,33,Yes,Travel frequently,827.0,Research & development,36,4,Medical,36,F,54.0,2,2,Research scientist,3,Single,,3129,1,No,22,4.0,2,0,14.0,4,3.0,13,,3,8,1990,Yes
+383,33,Yes,Travel frequently,827.0,Research & development,36,4,Medical,3,F,54.0,2,2,Research scientist,3,Single,,3129,1,No,22,4.0,2,0,14.0,4,3.0,13,,3,8,1990,Yes
 384,25,Yes,,1219.0,Research & development,4,1,Technical degree,4,M,32.0,3,1,Laboratory technician,4,Married,,4605,1,,15,,2,1,7.0,3,4.0,7,,5,6,1998,Yes
 385,38,No,,770.0,Sales,10,4,,3,M,,2,3,Sales executive,3,,8740.0,5569,0,Yes,14,3.0,2,2,9.0,2,,8,,2,7,1985,Yes
-386,28,No,,950.0,,12,3,,12,F,93.0,3,3,Manufacturing director,2,,,8039,0,,17,3.0,2,3,,3,2.0,9,,1,7,1995,Yes
+386,28,No,,950.0,,12,3,,1,F,93.0,3,3,Manufacturing director,2,,,8039,0,,17,3.0,2,3,,3,2.0,9,,1,7,1995,Yes
 387,43,No,Travel frequently,1082.0,,27,3,Life sciences,3,F,83.0,3,3,Manufacturing director,1,Married,,11535,8,No,11,3.0,3,1,18.0,1,3.0,8,,0,1,1980,No
 388,39,Yes,Travel frequently,203.0,Research & development,2,3,Life sciences,1,M,84.0,3,4,Healthcare representative,4,,,13547,7,No,11,3.0,4,3,21.0,4,3.0,18,,11,5,1984,No
 389,40,No,Travel rarely,1308.0,,14,3,,3,M,44.0,2,5,Research director,3,,,17544,1,No,14,,1,0,,2,,20,,4,9,1983,Yes
@@ -398,13 +398,13 @@
 396,33,No,,1146.0,,25,3,Medical,2,F,,3,2,Sales executive,3,,,4905,1,No,12,3.0,1,1,,3,2.0,10,,0,1,1990,Yes
 397,36,No,,,Research & development,6,4,Life sciences,3,M,60.0,1,1,Laboratory technician,3,Divorced,,6865,1,No,14,3.0,3,1,,4,3.0,7,,1,7,1987,Yes
 398,30,No,Travel rarely,853.0,,7,4,Life sciences,3,M,49.0,3,2,Laboratory technician,3,Divorced,3491.0,11309,1,,13,,1,3,,4,2.0,10,,8,9,1993,Yes
-399,60,No,,,,29,4,,29,M,52.0,4,2,Sales executive,4,Divorced,5220.0,10893,0,,18,3.0,2,1,12.0,3,3.0,11,,1,9,1963,Yes
+399,60,No,,,,29,4,,2,M,52.0,4,2,Sales executive,4,Divorced,5220.0,10893,0,,18,3.0,2,1,12.0,3,3.0,11,,1,9,1963,Yes
 400,32,No,,1316.0,,2,2,Life sciences,4,F,38.0,3,2,Research scientist,3,Single,,2338,4,Yes,14,3.0,4,0,10.0,2,3.0,8,,0,7,1991,No
 401,36,No,,363.0,,1,3,Technical degree,3,F,,1,3,Manufacturing director,1,Divorced,10252.0,4235,2,Yes,21,4.0,3,1,17.0,2,3.0,7,,7,7,1987,Yes
 402,27,No,Travel rarely,1103.0,,14,3,,1,M,42.0,3,1,Research scientist,1,,,14377,1,,14,3.0,4,2,,3,2.0,9,,6,8,1996,Yes
 403,43,No,,920.0,Research & development,3,3,Life sciences,3,M,96.0,1,5,Research director,4,,19740.0,18625,3,No,14,3.0,2,1,,2,3.0,8,,0,7,1980,Yes
 404,29,No,Travel rarely,694.0,,1,3,,4,F,,2,4,Research director,4,Divorced,,3423,3,No,14,3.0,2,2,9.0,2,2.0,7,,1,7,1994,Yes
-405,59,No,,1429.0,,24,4,,24,M,67.0,3,3,Manufacturing director,4,Single,,20002,6,No,12,3.0,4,0,,6,2.0,9,,5,4,1964,No
+405,59,No,,1429.0,,24,4,,2,M,67.0,3,3,Manufacturing director,4,Single,,20002,6,No,12,3.0,4,0,,6,2.0,9,,5,4,1964,No
 406,43,No,Travel rarely,531.0,,4,4,Marketing,4,F,56.0,2,3,Sales executive,4,Single,,20364,3,No,14,3.0,4,0,23.0,3,4.0,21,,15,17,1980,Yes
 407,44,Yes,Travel rarely,621.0,,15,3,Medical,1,F,73.0,3,3,Healthcare representative,4,Married,,14075,1,,11,3.0,4,1,,2,3.0,10,,0,5,1979,Yes
 408,29,Yes,,806.0,Research & development,7,3,Technical degree,2,F,39.0,3,1,Laboratory technician,3,Divorced,,17285,3,Yes,13,3.0,1,2,10.0,2,3.0,7,,7,7,1994,Yes
@@ -414,7 +414,7 @@
 412,39,No,Travel rarely,524.0,,33,2,,1,M,32.0,3,2,Manufacturing director,3,Single,4534.0,13352,0,,11,3.0,1,0,,6,,8,,1,7,1984,Yes
 413,34,No,,943.0,,9,3,,4,M,86.0,3,3,Healthcare representative,4,,8500.0,5494,0,,11,,4,1,10.0,0,2.0,9,,1,6,1989,Yes
 414,38,No,,1009.0,,2,2,Life sciences,2,F,31.0,3,2,Sales executive,1,,,19461,3,,15,3.0,4,1,11.0,3,3.0,7,,1,7,1985,Yes
-415,36,No,Travel frequently,607.0,Sales,12,3,Marketing,12,F,83.0,4,2,Sales executive,1,Married,4639.0,2261,2,No,16,3.0,4,1,,2,2.0,15,,6,13,1987,Yes
+415,36,No,Travel frequently,607.0,Sales,12,3,Marketing,1,F,83.0,4,2,Sales executive,1,Married,4639.0,2261,2,No,16,3.0,4,1,,2,2.0,15,,6,13,1987,Yes
 416,35,No,,817.0,,1,3,,4,F,60.0,2,2,Laboratory technician,4,,5363.0,10846,0,No,12,3.0,2,1,10.0,0,3.0,9,,0,0,1988,No
 417,55,Yes,,,,13,4,,1,M,85.0,4,4,Sales executive,3,,,9277,6,,17,3.0,3,0,,2,2.0,19,,3,8,1968,Yes
 418,34,No,,,,29,3,,2,M,86.0,3,2,Laboratory technician,3,,,17491,4,,13,3.0,1,2,10.0,1,3.0,8,,7,7,1989,No
@@ -440,7 +440,7 @@
 438,45,No,Non travel,,,26,3,Marketing,1,M,52.0,2,2,Sales executive,1,,4385.0,24162,1,,15,,1,1,10.0,2,,10,,4,5,1978,No
 439,34,No,Travel frequently,426.0,,10,4,,3,M,42.0,4,2,Manufacturing director,4,,,17000,1,,13,3.0,1,1,9.0,3,,9,,7,2,1989,Yes
 440,39,No,,1387.0,Research & development,10,5,Medical,2,M,76.0,3,2,Manufacturing director,1,,,3835,2,,13,3.0,4,3,,3,3.0,7,,7,7,1984,No
-441,27,No,,1302.0,Research & development,36,3,,36,M,,2,1,Laboratory technician,1,Divorced,4066.0,16290,1,No,11,3.0,1,2,7.0,3,3.0,7,,0,7,1996,Yes
+441,27,No,,1302.0,Research & development,36,3,,3,M,,2,1,Laboratory technician,1,Divorced,4066.0,16290,1,No,11,3.0,1,2,7.0,3,3.0,7,,0,7,1996,Yes
 442,45,No,Travel rarely,1329.0,,2,2,,4,F,59.0,2,2,Manufacturing director,4,Divorced,,5388,1,,19,3.0,1,2,10.0,3,3.0,10,,3,9,1978,Yes
 443,44,No,,602.0,,1,5,,1,M,37.0,3,2,Human resources,4,Married,,10503,4,Yes,11,3.0,3,0,14.0,3,3.0,10,,0,2,1979,Yes
 444,25,No,,772.0,,2,1,Life sciences,4,M,77.0,4,2,Manufacturing director,3,Divorced,5206.0,4973,1,,17,3.0,3,2,7.0,6,3.0,7,,0,7,1998,No
@@ -479,7 +479,7 @@
 477,35,No,,1395.0,,9,4,Medical,2,M,48.0,3,2,Research scientist,3,,5098.0,18698,1,No,19,3.0,2,0,10.0,5,3.0,10,,0,8,1988,Yes
 478,33,No,Travel rarely,501.0,,15,2,,2,F,95.0,3,2,Healthcare representative,4,Married,,21653,0,Yes,13,,1,1,,6,3.0,9,,8,1,1990,Yes
 479,39,No,Travel rarely,116.0,,24,1,Life sciences,1,M,52.0,3,2,Research scientist,4,Single,,5340,7,No,13,,1,0,,2,3.0,7,,1,7,1984,No
-480,36,No,Travel rarely,557.0,,46,3,,46,F,94.0,2,3,Sales executive,4,Married,,12695,0,No,19,3.0,3,2,10.0,2,3.0,9,,3,4,1987,Yes
+480,36,No,Travel rarely,557.0,,46,3,,4,F,94.0,2,3,Sales executive,4,Married,,12695,0,No,19,3.0,3,2,10.0,2,3.0,9,,3,4,1987,Yes
 481,41,No,Travel rarely,582.0,,28,4,Life sciences,1,F,60.0,2,4,Manufacturing director,2,Married,13570.0,5640,0,No,23,,3,1,21.0,3,3.0,20,,0,10,1982,Yes
 482,34,No,,704.0,Sales,28,3,Marketing,4,F,95.0,2,2,Sales executive,3,Married,6712.0,8978,1,No,21,4.0,4,2,8.0,2,3.0,8,,1,7,1989,No
 483,38,No,Travel rarely,,,10,2,,1,F,100.0,3,2,Sales executive,4,Married,,5982,1,No,11,3.0,3,1,10.0,1,3.0,10,,1,9,1985,Yes
@@ -515,14 +515,14 @@
 513,50,No,,333.0,,22,5,,3,M,88.0,1,4,Research director,4,,14411.0,24450,1,,13,3.0,4,0,,2,3.0,32,,13,9,1973,No
 514,55,No,Travel rarely,685.0,,23,5,Marketing,3,M,60.0,2,5,Manager,4,,19586.0,23037,1,No,21,4.0,3,1,36.0,3,3.0,36,,2,13,1968,Yes
 515,39,No,,1462.0,Sales,6,3,,4,M,38.0,4,3,Sales executive,3,Married,8237.0,4658,2,No,11,3.0,1,1,11.0,3,3.0,7,,7,6,1984,Yes
-516,49,No,,722.0,Research & development,13,4,,13,F,84.0,3,1,Laboratory technician,1,,3211.0,22102,1,,14,3.0,4,1,10.0,3,2.0,9,,1,4,1974,Yes
+516,49,No,,722.0,Research & development,13,4,,1,F,84.0,3,1,Laboratory technician,1,,3211.0,22102,1,,14,3.0,4,1,10.0,3,2.0,9,,1,4,1974,Yes
 517,45,No,,,,28,2,Technical degree,4,F,48.0,2,4,Research director,2,Single,16704.0,17119,1,,11,,3,0,21.0,2,3.0,21,6.0,8,6,1978,No
 518,46,No,,1277.0,,2,3,,3,M,74.0,3,3,Sales executive,4,,,5596,4,,12,3.0,2,1,,5,2.0,10,,0,3,1977,No
 519,27,No,,1131.0,,15,3,,4,F,77.0,2,1,Research scientist,1,Married,4774.0,23844,0,No,19,3.0,4,1,,2,,7,,7,3,1996,No
 520,42,No,Travel rarely,300.0,,2,3,,1,M,56.0,3,5,Manager,3,Married,,17312,5,,11,3.0,1,0,24.0,2,2.0,22,,4,14,1981,Yes
 521,49,No,,1023.0,Sales,2,3,,4,M,63.0,2,2,Sales executive,2,Married,,13243,2,,14,3.0,4,0,17.0,3,2.0,9,,0,8,1974,Yes
 522,29,No,Travel rarely,153.0,,15,2,Life sciences,4,F,49.0,2,2,Laboratory technician,3,Single,,12682,0,Yes,12,3.0,4,0,10.0,3,3.0,9,,0,8,1994,Yes
-523,34,No,Non travel,1065.0,,12,4,Marketing,12,M,72.0,3,2,Sales executive,3,,4568.0,10034,0,No,20,4.0,3,0,,2,3.0,9,,8,7,1989,No
+523,34,No,Non travel,1065.0,,12,4,Marketing,1,M,72.0,3,2,Sales executive,3,,4568.0,10034,0,No,20,4.0,3,0,,2,3.0,9,,8,7,1989,No
 524,37,No,,1115.0,,1,4,,1,M,51.0,2,2,Manufacturing director,3,Divorced,5993.0,2689,1,No,18,3.0,3,1,,2,,7,,0,7,1986,No
 525,36,No,,1195.0,,11,3,,2,M,95.0,2,2,Manufacturing director,2,Single,6499.0,22656,1,No,13,3.0,3,0,6.0,3,3.0,6,,0,3,1987,Yes
 526,45,No,,1316.0,,29,3,,3,M,83.0,3,1,Research scientist,4,Single,3452.0,9752,5,,13,3.0,2,0,9.0,2,2.0,6,,0,3,1978,Yes
@@ -531,18 +531,18 @@
 529,28,No,,304.0,,9,4,Life sciences,2,M,92.0,3,2,Sales executive,4,Single,,20750,1,No,16,3.0,4,0,,1,3.0,7,,0,7,1995,Yes
 530,42,No,Travel frequently,1368.0,,30,4,Technical degree,4,F,,2,2,Healthcare representative,4,Married,,4386,0,No,11,3.0,4,3,7.0,4,4.0,6,,0,4,1981,Yes
 531,31,No,Travel rarely,828.0,Sales,2,1,Life sciences,2,M,77.0,3,2,Sales executive,4,,,8346,4,Yes,13,3.0,3,0,10.0,2,4.0,6,,0,5,1992,Yes
-532,37,No,Travel rarely,799.0,,47,3,,47,F,59.0,3,3,Manufacturing director,4,Single,,23848,4,,17,3.0,4,0,,3,4.0,6,,1,2,1986,Yes
+532,37,No,Travel rarely,799.0,,47,3,,4,F,59.0,3,3,Manufacturing director,4,Single,,23848,4,,17,3.0,4,0,,3,4.0,6,,1,2,1986,Yes
 533,37,No,Non travel,142.0,,9,4,,1,M,69.0,3,3,Sales executive,2,Divorced,,24666,1,No,13,3.0,4,1,9.0,6,3.0,9,,7,7,1986,No
 534,37,No,Travel rarely,446.0,,1,4,Life sciences,2,F,65.0,3,2,Manufacturing director,2,Married,,15701,6,,12,3.0,2,1,8.0,2,2.0,6,,4,3,1986,No
 535,24,No,Travel rarely,691.0,,23,3,Medical,2,M,89.0,4,1,Research scientist,4,,2725.0,21630,1,,11,3.0,2,2,,3,3.0,6,,1,4,1999,Yes
 536,50,No,,1246.0,,3,3,,1,M,99.0,3,5,Manager,2,Married,,7999,1,No,11,3.0,3,1,,2,3.0,32,,10,7,1973,No
 537,34,No,,254.0,,1,2,Life sciences,2,M,83.0,2,1,Research scientist,4,,3622.0,22794,1,Yes,13,3.0,4,1,6.0,3,3.0,6,,1,3,1989,Yes
 538,27,No,Travel frequently,1410.0,,3,1,Medical,4,F,71.0,4,2,Sales executive,4,,,16673,1,,20,,2,2,,3,3.0,6,,0,4,1996,No
-539,25,No,,883.0,Sales,42,1,,42,F,32.0,3,2,Sales executive,4,Single,6180.0,22807,1,No,23,4.0,2,0,6.0,5,2.0,6,,1,4,1998,No
+539,25,No,,883.0,Sales,42,1,,4,F,32.0,3,2,Sales executive,4,Single,6180.0,22807,1,No,23,4.0,2,0,6.0,5,2.0,6,,1,4,1998,No
 540,34,No,,304.0,Sales,25,3,Other,4,M,60.0,3,2,Sales executive,4,Single,6274.0,18686,1,No,22,4.0,3,0,6.0,5,3.0,6,,1,4,1989,Yes
 541,34,No,,121.0,Research & development,2,4,,3,F,86.0,2,1,Research scientist,1,,4381.0,7530,1,,11,,3,0,6.0,3,3.0,6,,1,3,1989,Yes
 542,35,No,,950.0,,7,3,Other,3,M,59.0,3,3,Manufacturing director,3,Single,,18869,3,No,21,4.0,2,0,17.0,3,4.0,8,,1,6,1988,No
-543,35,No,,1343.0,,16,1,Medical,16,F,53.0,2,1,Research scientist,1,,2559.0,17852,1,,11,3.0,4,0,6.0,3,2.0,6,,1,1,1988,No
+543,35,No,,1343.0,,16,1,Medical,1,F,53.0,2,1,Research scientist,1,,2559.0,17852,1,,11,3.0,4,0,6.0,3,2.0,6,,1,1,1988,No
 544,33,No,,827.0,Research & development,1,4,,3,F,84.0,4,2,Healthcare representative,2,Married,5488.0,20161,1,Yes,13,3.0,1,1,,2,3.0,6,,1,2,1990,Yes
 545,29,No,,1107.0,,28,4,Life sciences,3,F,93.0,3,1,Research scientist,4,Divorced,2514.0,26968,4,No,22,4.0,1,1,11.0,1,3.0,7,,1,7,1994,No
 546,29,No,Travel frequently,490.0,Research & development,10,3,,4,F,61.0,3,1,Research scientist,2,Divorced,,17940,0,No,14,3.0,4,2,8.0,2,2.0,7,,1,1,1994,Yes
@@ -584,7 +584,7 @@
 582,27,No,Non travel,210.0,,1,1,Marketing,3,M,73.0,3,2,Sales executive,2,,6349.0,22107,0,Yes,13,3.0,4,1,,0,,5,,1,4,1996,Yes
 583,41,No,Travel rarely,483.0,,6,3,,4,M,,2,2,Manufacturing director,2,Single,,10110,6,Yes,15,3.0,4,0,,3,3.0,5,,1,2,1982,Yes
 584,37,No,Travel rarely,921.0,,10,3,Medical,3,F,98.0,3,1,Laboratory technician,1,,,17663,6,No,20,4.0,2,1,,3,3.0,5,4.0,0,3,1986,Yes
-585,40,Yes,,575.0,,22,2,,22,M,68.0,2,2,Sales executive,3,,6380.0,6110,2,Yes,12,3.0,1,2,8.0,6,3.0,6,,1,0,1983,Yes
+585,40,Yes,,575.0,,22,2,,2,M,68.0,2,2,Sales executive,3,,6380.0,6110,2,Yes,12,3.0,1,2,8.0,6,3.0,6,,1,0,1983,Yes
 586,55,No,,1311.0,,2,3,,3,F,97.0,3,4,Manager,4,Single,,23258,2,Yes,13,3.0,3,0,,2,3.0,5,,1,2,1968,No
 587,26,Yes,Travel frequently,575.0,,3,1,,3,M,73.0,3,1,Research scientist,1,,3102.0,6582,0,,22,4.0,3,0,,2,3.0,6,,0,4,1997,Yes
 588,40,No,Travel rarely,759.0,,2,2,Marketing,4,F,46.0,3,2,Sales executive,2,Divorced,,22553,7,,12,3.0,3,2,,5,3.0,5,,1,3,1983,Yes
@@ -626,18 +626,18 @@
 624,34,No,Non travel,999.0,,26,1,,1,F,92.0,2,1,Research scientist,3,Divorced,2029.0,15891,1,No,20,4.0,3,3,5.0,2,3.0,5,,0,0,1989,Yes
 625,39,No,Travel rarely,1498.0,Sales,21,4,,1,M,44.0,2,2,Sales executive,4,Married,,3567,3,,12,3.0,4,2,8.0,2,4.0,5,,1,4,1984,No
 626,37,No,,1439.0,,4,1,,3,M,54.0,3,1,Research scientist,3,Married,2996.0,5182,7,Yes,15,3.0,4,0,8.0,2,3.0,6,,1,3,1986,No
-627,33,No,,1111.0,Sales,41,1,Life sciences,41,M,61.0,3,2,Sales executive,4,Married,,19293,6,,13,3.0,1,0,8.0,2,4.0,5,,1,2,1990,Yes
+627,33,No,,1111.0,Sales,41,1,Life sciences,4,M,61.0,3,2,Sales executive,4,Married,,19293,6,,13,3.0,1,0,8.0,2,4.0,5,,1,2,1990,Yes
 628,39,No,Non travel,1485.0,Research & development,25,2,,3,M,71.0,3,3,Healthcare representative,3,,,3449,3,No,21,4.0,2,1,13.0,2,3.0,6,,0,5,1984,No
 629,52,No,Travel rarely,258.0,,8,4,Other,3,F,54.0,3,1,Laboratory technician,1,Married,,17363,9,No,13,,3,0,12.0,2,1.0,5,,0,4,1971,Yes
 630,36,No,,1174.0,,3,4,,1,F,99.0,3,2,Sales executive,2,Single,9278.0,20763,3,Yes,16,3.0,4,0,15.0,3,3.0,5,,0,1,1987,Yes
-631,36,No,,172.0,,47,4,Life sciences,47,M,,2,2,Laboratory technician,4,Single,,22604,1,,16,3.0,3,0,10.0,2,2.0,10,,1,8,1987,Yes
+631,36,No,,172.0,,47,4,Life sciences,4,M,,2,2,Laboratory technician,4,Single,,22604,1,,16,3.0,3,0,10.0,2,2.0,10,,1,8,1987,Yes
 632,24,No,Travel rarely,,,4,1,,4,F,42.0,3,2,Sales executive,3,Married,4162.0,15211,1,Yes,12,3.0,3,2,,3,3.0,5,,0,3,1999,Yes
 633,34,No,Travel rarely,401.0,,1,3,Life sciences,4,F,86.0,2,1,Laboratory technician,2,,,3708,5,No,17,3.0,1,1,7.0,2,2.0,5,,0,2,1989,No
 634,28,No,,866.0,Sales,5,3,,4,M,,3,2,Sales executive,1,Single,,23490,0,,18,3.0,4,0,,4,3.0,5,,1,3,1995,Yes
 635,33,No,Travel rarely,1099.0,Research & development,4,4,Medical,1,F,82.0,2,1,Laboratory technician,2,,,8192,8,No,11,3.0,4,0,8.0,5,3.0,5,,0,2,1990,Yes
 636,47,No,Travel rarely,571.0,,14,3,Medical,3,F,,3,2,Sales executive,3,Married,,24200,3,,17,3.0,3,1,,4,2.0,5,,1,2,1976,Yes
 637,40,Yes,,676.0,,9,4,Life sciences,4,M,86.0,3,1,Laboratory technician,1,Single,,21831,3,,14,3.0,2,0,15.0,3,1.0,5,,1,0,1983,No
-638,45,No,Travel rarely,950.0,,49,3,Technical degree,49,M,97.0,3,1,Research scientist,4,Married,,4585,4,No,20,4.0,4,1,,3,3.0,5,,0,3,1978,Yes
+638,45,No,Travel rarely,950.0,,49,3,Technical degree,4,M,97.0,3,1,Research scientist,4,Married,,4585,4,No,20,4.0,4,1,,3,3.0,5,,0,3,1978,Yes
 639,40,No,Travel rarely,1342.0,,9,2,,1,M,47.0,3,2,Sales executive,1,,,19345,0,,12,3.0,4,0,,5,4.0,8,,7,1,1983,Yes
 640,29,No,,995.0,,2,1,Life sciences,1,M,87.0,3,2,Healthcare representative,4,,8853.0,24483,1,,19,3.0,4,1,6.0,0,4.0,6,,1,3,1994,Yes
 641,40,No,,118.0,,14,2,Life sciences,4,F,84.0,3,2,Sales executive,1,Married,,11262,1,No,15,3.0,3,1,5.0,2,3.0,5,,1,2,1983,Yes
@@ -646,24 +646,24 @@
 644,38,No,,,Research & development,2,2,,4,F,54.0,2,3,Manufacturing director,3,,7756.0,14199,3,,19,3.0,4,1,10.0,6,4.0,5,,0,2,1985,Yes
 645,37,No,Travel rarely,1470.0,Research & development,10,3,,2,F,71.0,3,1,Research scientist,2,Married,3936.0,9953,1,,11,3.0,1,1,8.0,2,1.0,8,,7,7,1986,No
 646,39,No,Travel rarely,492.0,,12,3,Medical,4,M,66.0,3,2,Manufacturing director,2,,,7693,4,No,21,4.0,3,0,,3,3.0,5,,1,0,1984,Yes
-647,36,No,Travel rarely,1040.0,Research & development,11,2,Life sciences,11,M,79.0,4,2,Healthcare representative,1,Divorced,6842.0,26308,6,No,20,4.0,1,1,13.0,3,3.0,5,,0,4,1987,Yes
+647,36,No,Travel rarely,1040.0,Research & development,11,2,Life sciences,1,M,79.0,4,2,Healthcare representative,1,Divorced,6842.0,26308,6,No,20,4.0,1,1,13.0,3,3.0,5,,0,4,1987,Yes
 648,23,Yes,Travel rarely,1320.0,,8,1,Medical,4,M,93.0,2,1,Laboratory technician,3,Single,3989.0,20586,1,,11,,1,0,5.0,2,3.0,5,,1,2,2000,Yes
 649,35,No,,146.0,,2,4,,1,M,79.0,2,1,Research scientist,4,,4930.0,13970,0,Yes,14,3.0,3,0,6.0,2,4.0,5,,1,4,1988,Yes
 650,31,No,Travel frequently,163.0,,24,1,Technical degree,4,F,30.0,3,2,Manufacturing director,4,Single,,6670,2,,20,4.0,4,0,9.0,3,2.0,5,,1,4,1992,Yes
 651,38,No,Travel rarely,1153.0,Research & development,6,2,Other,4,F,40.0,2,1,Laboratory technician,3,Married,3702.0,16376,1,No,11,3.0,2,1,5.0,3,3.0,5,,0,4,1985,Yes
 652,35,No,,185.0,,23,4,Medical,2,M,91.0,1,1,Laboratory technician,3,Married,2705.0,9696,0,,16,,2,1,6.0,2,4.0,5,,0,3,1988,Yes
 653,40,No,,750.0,,12,3,,2,F,47.0,3,2,Healthcare representative,1,,4448.0,10748,2,,12,3.0,2,1,15.0,3,3.0,7,,7,7,1983,Yes
-654,27,No,Travel frequently,1297.0,Research & development,48,2,,48,F,,3,1,Laboratory technician,4,Single,2379.0,19826,0,Yes,14,3.0,3,0,6.0,3,2.0,5,,0,2,1996,Yes
+654,27,No,Travel frequently,1297.0,Research & development,48,2,,4,F,,3,1,Laboratory technician,4,Single,2379.0,19826,0,Yes,14,3.0,3,0,6.0,3,2.0,5,,0,2,1996,Yes
 655,41,No,,337.0,,8,3,,3,F,54.0,3,2,Sales executive,2,,,26841,5,No,21,4.0,3,1,14.0,3,3.0,5,,1,4,1982,Yes
 656,33,No,Travel rarely,217.0,,15,4,Marketing,2,M,43.0,3,2,Sales executive,3,Single,5487.0,10410,1,No,14,3.0,2,0,,2,2.0,10,,0,9,1990,No
 657,49,No,,1064.0,,2,1,Life sciences,2,M,42.0,3,5,Research director,4,Married,,13738,3,No,15,3.0,4,0,28.0,3,3.0,5,,4,3,1974,No
 658,36,No,Non travel,1351.0,,9,4,,1,M,66.0,4,1,Laboratory technician,2,,2810.0,9238,1,No,22,4.0,2,0,5.0,3,3.0,5,,0,2,1987,Yes
 659,41,No,,930.0,,3,3,Life sciences,3,M,57.0,2,2,Sales executive,2,Divorced,8938.0,12227,2,,11,3.0,3,1,14.0,5,3.0,5,,0,4,1982,No
-660,29,No,,468.0,,41,4,Medical,41,F,73.0,2,1,Research scientist,1,Single,,8489,1,No,14,3.0,2,0,5.0,3,1.0,5,,0,4,1994,Yes
+660,29,No,,468.0,,41,4,Medical,4,F,73.0,2,1,Research scientist,1,Single,,8489,1,No,14,3.0,2,0,5.0,3,1.0,5,,0,4,1994,Yes
 661,31,No,Non travel,,,5,3,Medical,2,M,74.0,3,2,Manufacturing director,1,,9936.0,3787,0,No,19,3.0,2,0,10.0,2,3.0,9,,1,7,1992,Yes
 662,36,Yes,Travel rarely,1218.0,,9,4,Life sciences,3,M,82.0,2,1,Sales representative,1,Single,,6986,7,No,23,4.0,2,0,,4,,5,,0,3,1987,No
 663,43,No,Travel rarely,1273.0,,2,2,Medical,4,F,72.0,4,1,Research scientist,3,,,21923,1,No,12,3.0,4,2,6.0,3,2.0,5,,1,4,1980,No
-664,33,No,Travel frequently,1141.0,,18,3,Life sciences,18,F,42.0,4,2,Sales executive,1,Married,,3193,2,No,19,,1,2,,3,3.0,5,,1,3,1990,No
+664,33,No,Travel frequently,1141.0,,18,3,Life sciences,1,F,42.0,4,2,Sales executive,1,Married,,3193,2,No,19,,1,2,,3,3.0,5,,1,3,1990,No
 665,44,No,,1488.0,Sales,1,5,Marketing,2,F,75.0,3,2,Sales executive,1,,5454.0,4009,5,,21,4.0,3,1,9.0,2,2.0,4,,1,3,1979,No
 666,38,No,,653.0,,29,5,Life sciences,4,F,50.0,3,2,Laboratory technician,4,Single,,5456,1,No,11,3.0,4,0,10.0,2,3.0,10,,9,9,1985,Yes
 667,50,No,,989.0,,7,2,Medical,2,F,43.0,2,5,Research director,3,Divorced,18740.0,16701,5,,12,,4,1,,2,2.0,27,,13,8,1973,No
@@ -675,14 +675,14 @@
 673,24,No,,1127.0,,18,1,Life sciences,2,M,52.0,3,1,Laboratory technician,3,Married,2774.0,13257,0,No,12,3.0,3,1,,2,3.0,5,,1,2,1999,Yes
 674,37,No,Travel rarely,1189.0,,3,3,Life sciences,3,M,87.0,3,3,Sales executive,4,,,14506,2,No,12,3.0,1,0,,3,3.0,5,,1,3,1986,Yes
 675,30,No,Travel rarely,1427.0,,2,1,,2,M,35.0,2,1,Laboratory technician,4,Single,,11162,0,No,13,3.0,4,0,6.0,3,3.0,5,,1,2,1993,Yes
-676,34,No,Travel frequently,303.0,,10,4,,10,F,75.0,3,1,Sales representative,3,,,11314,6,No,18,3.0,4,1,,3,3.0,4,,1,2,1989,No
+676,34,No,Travel frequently,303.0,,10,4,,1,F,75.0,3,1,Sales representative,3,,,11314,6,No,18,3.0,4,1,,3,3.0,4,,1,2,1989,No
 677,57,No,Travel rarely,334.0,Research & development,24,2,,3,M,83.0,4,3,Healthcare representative,4,Divorced,9439.0,23402,3,,16,3.0,2,1,12.0,2,1.0,5,,1,4,1966,Yes
 678,38,No,Travel rarely,702.0,,1,4,Life sciences,1,F,,2,2,Sales executive,4,Single,,12930,4,,22,,3,0,12.0,2,4.0,8,,0,7,1985,No
 679,41,Yes,Travel rarely,,,20,2,Marketing,2,F,70.0,3,1,Sales representative,2,,,21728,1,Yes,22,4.0,4,0,4.0,5,2.0,4,,0,2,1982,Yes
 680,42,No,,926.0,,21,2,,3,F,36.0,3,2,Manufacturing director,3,Divorced,5265.0,16439,2,,16,3.0,2,1,11.0,5,3.0,5,,0,2,1981,No
 681,34,No,,878.0,,10,4,,4,M,43.0,3,1,Research scientist,3,Divorced,3815.0,5972,1,Yes,17,3.0,4,1,,4,4.0,5,,2,0,1989,Yes
 682,30,Yes,,334.0,,26,4,,3,F,52.0,2,2,Sales executive,1,,,22967,5,,15,3.0,3,0,9.0,5,2.0,6,,0,1,1993,Yes
-683,29,Yes,Travel rarely,896.0,,13,1,Medical,13,M,86.0,2,1,Research scientist,4,Single,2389.0,14961,1,,13,3.0,3,0,4.0,3,,4,,0,1,1994,Yes
+683,29,Yes,Travel rarely,896.0,,13,1,Medical,1,M,86.0,2,1,Research scientist,4,Single,2389.0,14961,1,,13,3.0,3,0,4.0,3,,4,,0,1,1994,Yes
 684,32,No,,1401.0,,4,2,,3,F,56.0,3,1,Sales representative,2,Married,,20990,2,No,11,,1,1,,5,3.0,4,,1,2,1991,No
 685,25,No,,675.0,,5,2,Life sciences,2,M,85.0,4,2,Healthcare representative,1,,4000.0,18384,1,No,12,3.0,4,2,6.0,2,3.0,6,,1,5,1998,Yes
 686,53,No,,1070.0,,3,4,,3,M,45.0,3,4,Research director,3,Married,17584.0,21016,3,Yes,16,3.0,4,3,21.0,5,2.0,5,,1,3,1970,Yes
@@ -692,11 +692,11 @@
 690,58,No,,390.0,Research & development,1,4,Life sciences,4,M,32.0,1,2,Healthcare representative,3,Divorced,,17056,2,Yes,13,3.0,4,1,,2,3.0,5,,1,2,1965,Yes
 691,27,No,Travel rarely,1220.0,,5,3,,3,F,85.0,3,1,Research scientist,2,Single,,20938,1,,12,3.0,2,0,4.0,2,,4,,1,2,1996,Yes
 692,54,No,Travel frequently,928.0,,20,4,Life sciences,4,F,31.0,3,2,Research scientist,3,,4869.0,16885,3,,12,,4,0,20.0,4,2.0,4,,0,3,1969,No
-693,40,No,Travel rarely,1124.0,,45,2,,45,M,57.0,1,2,Sales executive,4,Married,,13273,2,,22,4.0,3,3,,2,2.0,4,,0,2,1983,Yes
+693,40,No,Travel rarely,1124.0,,45,2,,4,M,57.0,1,2,Sales executive,4,Married,,13273,2,,22,4.0,3,3,,2,2.0,4,,0,2,1983,Yes
 694,29,No,Non travel,746.0,,2,3,Life sciences,4,M,61.0,3,2,Sales executive,3,,4649.0,16928,1,,14,,1,1,,3,2.0,4,,0,2,1994,Yes
 695,50,No,Travel rarely,1046.0,,10,3,,4,M,100.0,2,3,Healthcare representative,4,,10496.0,2755,6,No,15,3.0,4,0,20.0,2,3.0,4,,1,3,1973,No
 696,24,Yes,Travel rarely,1448.0,,1,1,Technical degree,1,F,62.0,3,1,Sales representative,2,Single,,21972,1,Yes,16,3.0,2,0,6.0,4,3.0,5,,1,4,1999,Yes
-697,30,No,,1400.0,Research & development,37,3,,37,M,53.0,3,1,Laboratory technician,4,Married,,16734,4,,15,3.0,3,1,9.0,3,1.0,5,,1,4,1993,No
+697,30,No,,1400.0,Research & development,37,3,,3,M,53.0,3,1,Laboratory technician,4,Married,,16734,4,,15,3.0,3,1,9.0,3,1.0,5,,1,4,1993,No
 698,34,No,,1303.0,,2,4,,4,M,62.0,2,1,Research scientist,3,,2768.0,8416,3,,12,3.0,3,1,14.0,3,3.0,7,,5,7,1989,Yes
 699,33,Yes,Travel rarely,587.0,,10,1,,1,M,38.0,1,1,Laboratory technician,4,Divorced,3408.0,6705,7,No,13,3.0,1,3,8.0,2,3.0,4,,1,3,1990,No
 700,36,No,Non travel,635.0,,30,4,Medical,2,M,32.0,3,3,Sales executive,4,Single,,15318,1,,14,3.0,4,0,,3,2.0,10,,9,7,1987,Yes
@@ -732,7 +732,7 @@
 730,37,No,Travel rarely,124.0,,3,3,,4,F,35.0,3,2,Healthcare representative,2,,4107.0,13848,3,No,15,3.0,1,0,8.0,3,2.0,4,,0,1,1986,Yes
 731,26,No,,921.0,,26,1,Medical,1,F,66.0,2,1,Research scientist,3,,,25265,1,No,13,3.0,3,2,,5,3.0,5,,1,3,1997,No
 732,26,No,,192.0,,1,2,Medical,1,M,59.0,2,1,Laboratory technician,1,Married,,11141,1,No,16,3.0,1,2,6.0,2,3.0,5,,1,3,1997,Yes
-733,28,No,,,,42,1,,42,M,67.0,2,1,Research scientist,2,Married,,19911,0,No,17,3.0,1,0,,2,1.0,5,,0,4,1995,Yes
+733,28,No,,,,42,1,,4,M,67.0,2,1,Research scientist,2,Married,,19911,0,No,17,3.0,1,0,,2,1.0,5,,0,4,1995,Yes
 734,24,No,,477.0,,24,3,Medical,4,M,49.0,3,1,Laboratory technician,2,Single,3597.0,6409,8,No,22,4.0,4,0,6.0,2,3.0,4,,1,2,1999,No
 735,30,No,Travel rarely,852.0,,10,3,Marketing,3,M,72.0,2,2,Sales executive,3,Married,,2706,1,No,18,3.0,1,1,,3,3.0,10,,1,4,1993,No
 736,43,Yes,,1372.0,,9,3,,1,F,85.0,1,2,Sales executive,3,Single,,9489,8,No,13,,2,0,7.0,2,2.0,4,,1,3,1980,Yes
@@ -752,7 +752,7 @@
 750,33,No,,,,7,3,Medical,4,M,54.0,3,2,Sales executive,1,,4373.0,17456,0,No,14,3.0,1,2,5.0,2,3.0,4,,0,3,1990,No
 751,29,Yes,,115.0,Sales,13,3,,1,F,51.0,3,2,Sales executive,2,Single,,17485,5,No,11,,1,0,7.0,4,1.0,5,,0,0,1994,No
 752,30,No,,,,16,3,Life sciences,3,M,46.0,3,1,Human resources,3,,2064.0,15428,0,,21,4.0,1,1,6.0,3,4.0,5,,1,3,1993,No
-753,23,No,,507.0,Research & development,11,1,Life sciences,11,M,97.0,3,2,Laboratory technician,3,Single,,24812,0,No,14,3.0,2,0,5.0,2,3.0,4,,1,2,2000,No
+753,23,No,,507.0,Research & development,11,1,Life sciences,1,M,97.0,3,2,Laboratory technician,3,Single,,24812,0,No,14,3.0,2,0,5.0,2,3.0,4,,1,2,2000,No
 754,33,No,,575.0,,25,3,,4,M,44.0,2,2,Manufacturing director,2,,,24152,1,No,13,3.0,4,0,5.0,2,3.0,5,,0,2,1990,Yes
 755,35,No,,,,28,4,,2,F,98.0,2,1,Sales representative,3,Married,2430.0,26204,0,,23,4.0,1,2,6.0,5,3.0,5,,4,2,1988,Yes
 756,38,No,Travel frequently,888.0,,10,4,,3,M,71.0,3,2,Human resources,3,,,14814,3,No,11,3.0,3,0,10.0,2,3.0,6,,1,2,1985,Yes
@@ -783,7 +783,7 @@
 781,28,No,Non travel,1103.0,,16,3,Medical,3,M,49.0,3,1,Research scientist,3,Single,2144.0,2122,1,No,14,3.0,3,0,5.0,3,2.0,5,,1,4,1995,Yes
 782,29,No,,136.0,,1,3,Life sciences,1,M,89.0,3,2,Healthcare representative,1,Married,5373.0,6225,0,No,12,3.0,1,1,6.0,5,2.0,5,,0,2,1994,No
 783,54,No,,155.0,Research & development,9,2,,1,F,67.0,3,2,Research scientist,3,Married,2897.0,22474,3,No,11,3.0,3,2,9.0,6,2.0,4,,2,3,1969,No
-784,24,No,Travel rarely,771.0,,41,2,Life sciences,41,M,45.0,2,2,Healthcare representative,3,Single,,14120,1,No,12,3.0,2,0,4.0,2,2.0,4,,1,2,1999,Yes
+784,24,No,Travel rarely,771.0,,41,2,Life sciences,4,M,45.0,2,2,Healthcare representative,3,Single,,14120,1,No,12,3.0,2,0,4.0,2,2.0,4,,1,2,1999,Yes
 785,38,No,Travel frequently,508.0,,6,4,,1,M,72.0,2,2,Manufacturing director,3,Married,5321.0,14284,2,No,11,3.0,4,1,10.0,1,3.0,8,,7,7,1985,No
 786,42,No,,557.0,,18,4,,4,M,35.0,3,2,Research scientist,1,,5410.0,11189,6,,17,3.0,3,1,9.0,3,2.0,4,,1,2,1981,Yes
 787,41,No,,642.0,,1,3,Life sciences,4,M,76.0,3,1,Research scientist,4,,2782.0,21412,3,No,22,,1,1,,3,3.0,5,,1,0,1982,Yes
@@ -810,11 +810,11 @@
 808,50,Yes,Travel rarely,,,3,2,,1,M,86.0,2,1,Sales representative,3,Married,2683.0,3810,1,,14,3.0,3,0,3.0,2,3.0,3,,0,2,1973,Yes
 809,35,No,,890.0,,2,3,Marketing,4,F,97.0,3,1,Sales representative,4,Married,2014.0,9687,1,No,13,3.0,1,0,2.0,3,3.0,2,,2,2,1988,Yes
 810,28,Yes,,1434.0,,5,4,,3,M,50.0,3,1,Laboratory technician,3,Single,3441.0,11179,1,Yes,13,,3,0,2.0,3,2.0,2,,2,2,1995,Yes
-811,26,No,,1443.0,,22,3,,22,F,47.0,2,2,Sales executive,4,Married,,21436,7,Yes,19,3.0,3,1,5.0,2,2.0,2,,0,0,1997,No
+811,26,No,,1443.0,,22,3,,2,F,47.0,2,2,Sales executive,4,Married,,21436,7,Yes,19,3.0,3,1,5.0,2,2.0,2,,0,0,1997,No
 812,35,No,Travel rarely,1142.0,,31,4,,3,F,30.0,3,1,Laboratory technician,1,,,16002,3,Yes,15,,3,1,4.0,3,3.0,2,,2,2,1988,No
 813,35,No,,664.0,,31,3,Medical,2,M,79.0,3,1,Research scientist,1,Married,,5868,4,No,13,3.0,4,1,5.0,2,2.0,3,,1,2,1988,Yes
 814,37,No,Travel rarely,397.0,,20,4,Medical,1,M,30.0,3,3,Research director,3,,13664.0,25258,4,,13,,1,0,,3,4.0,5,,0,2,1986,Yes
-815,46,No,Travel rarely,,,38,2,Medical,38,M,80.0,3,2,Human resources,2,Divorced,5021.0,10425,8,Yes,22,4.0,4,1,,2,3.0,4,,0,2,1977,Yes
+815,46,No,Travel rarely,,,38,2,Medical,3,M,80.0,3,2,Human resources,2,Divorced,5021.0,10425,8,Yes,22,4.0,4,1,,2,3.0,4,,0,2,1977,Yes
 816,34,No,Travel rarely,1153.0,,1,2,Medical,1,M,94.0,3,2,Manufacturing director,2,Married,,17736,1,No,15,3.0,3,0,,2,3.0,5,,1,3,1989,Yes
 817,51,No,Travel rarely,432.0,,9,4,,4,M,96.0,3,1,Laboratory technician,4,,,18725,3,,23,4.0,2,2,10.0,4,3.0,4,,0,3,1972,Yes
 818,24,No,Travel rarely,1353.0,Sales,3,2,Other,1,F,33.0,3,2,Sales executive,3,Married,,17519,0,No,21,4.0,1,1,4.0,2,2.0,3,,0,2,1999,Yes
@@ -830,7 +830,7 @@
 828,25,No,,,Sales,28,3,Life sciences,1,M,41.0,2,2,Sales executive,3,,,24835,2,,18,3.0,4,0,,3,3.0,2,,2,2,1998,No
 829,38,No,Travel rarely,364.0,,3,5,Technical degree,4,F,32.0,3,2,Research scientist,3,,4317.0,2302,3,Yes,20,4.0,2,0,19.0,2,,3,,2,2,1985,No
 830,30,No,Travel rarely,201.0,Research & development,5,3,Technical degree,4,F,84.0,3,1,Research scientist,1,Divorced,,10415,5,No,14,,4,1,8.0,3,3.0,3,,2,2,1993,Yes
-831,22,No,,1256.0,,36,1,Medical,36,M,80.0,3,1,Research scientist,4,Married,,11992,1,No,24,4.0,1,2,2.0,6,3.0,2,,2,2,2001,Yes
+831,22,No,,1256.0,,36,1,Medical,3,M,80.0,3,1,Research scientist,4,Married,,11992,1,No,24,4.0,1,2,2.0,6,3.0,2,,2,2,2001,Yes
 832,27,No,Non travel,691.0,Research & development,9,3,Medical,4,M,57.0,3,1,Research scientist,2,,2024.0,5970,6,,18,3.0,4,1,,1,1.0,2,,2,2,1996,Yes
 833,28,No,,440.0,Research & development,21,3,Medical,3,M,42.0,3,1,Research scientist,4,Married,,6672,1,No,11,3.0,3,1,5.0,2,1.0,5,,0,2,1995,Yes
 834,27,No,,1157.0,,17,3,,3,M,51.0,3,1,Research scientist,2,,3058.0,13364,0,,16,3.0,4,1,6.0,3,2.0,5,,1,1,1996,Yes
@@ -843,7 +843,7 @@
 841,35,No,Travel frequently,,,24,3,Medical,2,F,37.0,3,2,Laboratory technician,2,Single,4425.0,15986,5,,11,3.0,4,0,,5,3.0,6,,1,2,1988,Yes
 842,27,No,Travel frequently,472.0,,1,1,,3,M,60.0,2,2,Manufacturing director,1,Married,,9679,5,,19,3.0,3,1,,1,3.0,2,,2,0,1996,No
 843,40,No,,905.0,,38,2,,3,M,99.0,3,2,Laboratory technician,4,Married,,16523,8,,15,3.0,3,1,,2,4.0,7,,3,7,1983,Yes
-844,22,No,,1136.0,,22,3,Life sciences,22,M,60.0,4,1,Research scientist,2,,2328.0,12392,1,,16,3.0,1,1,4.0,2,2.0,4,,2,2,2001,No
+844,22,No,,1136.0,,22,3,Life sciences,2,M,60.0,4,1,Research scientist,2,,2328.0,12392,1,,16,3.0,1,1,4.0,2,2.0,4,,2,2,2001,No
 845,40,No,,1151.0,,10,5,Life sciences,4,M,63.0,2,2,Healthcare representative,4,,,14242,9,No,14,3.0,4,1,5.0,5,1.0,3,,0,2,1983,Yes
 846,46,No,,644.0,,1,4,,4,M,,3,3,Healthcare representative,1,,,12368,7,No,16,3.0,3,1,17.0,3,3.0,4,,0,3,1977,Yes
 847,30,Yes,,1005.0,,3,3,Technical degree,4,F,88.0,3,1,Research scientist,1,,2657.0,8556,5,Yes,11,3.0,3,0,8.0,5,3.0,5,,0,4,1993,Yes
@@ -853,7 +853,7 @@
 851,52,No,Travel rarely,1323.0,,2,3,,3,F,89.0,2,1,Laboratory technician,4,Single,3212.0,3300,7,,15,3.0,2,0,,3,2.0,2,,2,2,1971,Yes
 852,59,No,Travel rarely,818.0,Human resources,6,2,Medical,2,M,,3,1,Human resources,3,Married,,25657,8,,17,3.0,4,0,,2,2.0,2,,2,2,1964,No
 853,32,Yes,,515.0,,1,3,,4,M,62.0,2,1,Laboratory technician,3,Single,,9571,0,,14,3.0,4,0,4.0,2,1.0,3,,1,2,1991,Yes
-854,39,No,,1431.0,,24,4,Medical,24,F,96.0,3,1,Laboratory technician,3,Divorced,,15417,7,No,14,3.0,3,3,7.0,1,3.0,3,,1,2,1984,No
+854,39,No,,1431.0,,24,4,Medical,2,F,96.0,3,1,Laboratory technician,3,Divorced,,15417,7,No,14,3.0,3,3,7.0,1,3.0,3,,1,2,1984,No
 855,32,No,Non travel,976.0,,26,4,Marketing,3,M,100.0,3,2,Sales executive,4,,,12069,0,No,18,3.0,1,0,4.0,2,3.0,3,,2,2,1991,Yes
 856,31,No,,1327.0,,3,4,Medical,2,M,73.0,3,3,Research director,3,Divorced,,13523,9,No,12,3.0,1,1,,3,3.0,2,,2,2,1992,Yes
 857,33,No,Travel rarely,832.0,,5,4,Life sciences,3,F,63.0,2,1,Research scientist,4,Married,2911.0,14776,1,,13,3.0,3,1,2.0,2,2.0,2,,0,2,1990,Yes
@@ -870,10 +870,10 @@
 868,49,No,,636.0,,10,4,Life sciences,3,F,,3,5,Research director,1,Single,18665.0,25594,9,Yes,11,3.0,4,0,,4,3.0,3,,1,2,1974,Yes
 869,31,No,Travel frequently,444.0,Sales,5,3,,4,F,84.0,3,1,Sales representative,2,Divorced,2789.0,3909,1,,11,3.0,3,1,2.0,5,2.0,2,,2,2,1992,Yes
 870,37,No,Travel frequently,889.0,,9,3,Medical,2,M,53.0,3,1,Research scientist,4,Married,,11411,1,,12,3.0,3,3,,3,2.0,4,,1,2,1986,No
-871,31,No,Travel rarely,691.0,Research & development,11,4,,11,M,86.0,3,1,Research scientist,4,Married,,10077,0,,12,3.0,3,1,,4,3.0,5,,0,3,1992,Yes
+871,31,No,Travel rarely,691.0,Research & development,11,4,,1,M,86.0,3,1,Research scientist,4,Married,,10077,0,,12,3.0,3,1,,4,3.0,5,,0,3,1992,Yes
 872,31,No,Travel rarely,106.0,,2,3,Human resources,1,M,62.0,2,2,Human resources,1,,6410.0,17822,3,No,12,3.0,4,0,,1,3.0,2,,1,0,1992,No
 873,31,No,,,Research & development,2,4,,3,M,32.0,3,1,Research scientist,4,,,7747,0,,18,3.0,2,1,3.0,2,1.0,2,,2,2,1992,Yes
-874,52,Yes,,723.0,,17,4,Medical,17,M,85.0,2,2,Research scientist,2,,4941.0,17747,2,No,15,,1,0,11.0,3,2.0,8,,7,7,1971,No
+874,52,Yes,,723.0,,17,4,Medical,1,M,85.0,2,2,Research scientist,2,,4941.0,17747,2,No,15,,1,0,11.0,3,2.0,8,,7,7,1971,No
 875,28,Yes,,1157.0,,2,4,Medical,1,M,84.0,1,1,Research scientist,4,Married,,24737,5,Yes,13,3.0,4,0,,4,2.0,3,,2,2,1995,Yes
 876,47,No,Travel rarely,1482.0,,5,5,,4,M,42.0,3,5,Research director,3,Married,,16375,4,,11,3.0,2,1,21.0,2,3.0,3,,1,1,1976,No
 877,29,No,,738.0,,9,5,Other,2,M,30.0,2,1,Laboratory technician,4,,3983.0,7621,0,No,17,3.0,3,0,4.0,2,,3,,2,2,1994,Yes
@@ -885,7 +885,7 @@
 883,57,No,Travel rarely,593.0,,1,4,Medical,4,M,88.0,3,2,Healthcare representative,3,,6755.0,2967,2,No,11,3.0,3,0,,2,3.0,3,,1,2,1966,Yes
 884,21,No,,895.0,,9,2,,1,M,39.0,3,1,Sales representative,4,Single,,2851,1,,24,4.0,3,0,3.0,3,2.0,3,2.0,2,2,2002,Yes
 885,31,No,Travel rarely,408.0,,9,4,Life sciences,3,M,42.0,2,1,Research scientist,2,,2657.0,7551,0,,16,3.0,4,0,3.0,5,3.0,2,,2,2,1992,Yes
-886,29,No,,1283.0,Research & development,17,3,,17,M,54.0,3,1,Research scientist,4,,,18168,9,No,16,,4,0,6.0,4,3.0,3,,1,2,1994,No
+886,29,No,,1283.0,Research & development,17,3,,1,M,54.0,3,1,Research scientist,4,,,18168,9,No,16,,4,0,6.0,4,3.0,3,,1,2,1994,No
 887,27,No,Travel rarely,1469.0,,1,2,,4,M,82.0,3,1,Laboratory technician,2,,,17881,1,No,11,3.0,2,1,5.0,2,3.0,5,,0,4,1996,Yes
 888,49,No,Travel rarely,1261.0,,7,3,Other,2,M,31.0,2,3,Healthcare representative,3,Single,10965.0,12066,8,No,24,4.0,3,0,,2,3.0,5,,0,0,1974,Yes
 889,36,No,Travel rarely,329.0,,2,3,,4,F,96.0,3,1,Research scientist,3,Married,2543.0,11868,4,No,13,3.0,2,1,,3,3.0,2,,2,2,1987,Yes
@@ -927,7 +927,7 @@
 925,27,No,,1115.0,,3,4,Medical,1,M,54.0,2,1,Research scientist,4,Single,2045.0,15174,0,,13,3.0,4,0,5.0,0,3.0,4,,1,1,1996,Yes
 926,23,No,Travel rarely,885.0,,4,3,,1,M,58.0,4,1,Research scientist,1,,,8544,2,,16,3.0,1,1,5.0,3,4.0,3,,0,2,2000,No
 927,25,No,,810.0,,8,3,Life sciences,4,M,57.0,4,2,Sales executive,2,,4851.0,15678,0,No,22,4.0,3,1,4.0,4,3.0,3,,1,2,1998,No
-928,48,No,,817.0,,14,1,,14,M,56.0,4,2,Sales executive,2,Married,8120.0,18597,3,,12,3.0,4,0,,3,3.0,2,,2,2,1975,Yes
+928,48,No,,817.0,,14,1,,1,M,56.0,4,2,Sales executive,2,Married,8120.0,18597,3,,12,3.0,4,0,,3,3.0,2,,2,2,1975,Yes
 929,24,Yes,Travel rarely,693.0,,3,2,Life sciences,1,F,65.0,3,2,Sales executive,3,Single,4577.0,24785,9,No,14,3.0,1,0,,3,3.0,2,,2,0,1999,Yes
 930,60,No,Travel rarely,1179.0,,16,4,,1,M,84.0,3,2,Sales executive,1,Single,5405.0,11924,8,No,14,3.0,4,0,10.0,1,3.0,2,,2,2,1963,No
 931,50,No,,316.0,,8,4,Marketing,4,M,54.0,3,1,Sales representative,2,Married,,9983,7,No,15,3.0,4,1,4.0,2,3.0,2,,2,2,1973,Yes
@@ -946,9 +946,9 @@
 944,35,No,Travel rarely,384.0,,8,4,,1,F,72.0,3,1,Sales representative,4,,2572.0,20317,1,No,16,3.0,2,1,3.0,1,2.0,3,,0,2,1988,Yes
 945,30,No,Travel rarely,921.0,,18,3,,4,M,38.0,1,1,Laboratory technician,3,Married,,24375,3,No,21,,3,2,7.0,2,3.0,2,,0,2,1993,Yes
 946,34,No,,1111.0,,8,2,,3,F,93.0,3,2,Sales executive,1,,6500.0,13305,5,No,17,3.0,2,1,,1,3.0,3,,1,2,1989,Yes
-947,52,No,Travel rarely,1325.0,Research & development,25,4,Life sciences,25,F,82.0,3,2,Laboratory technician,3,,3149.0,21821,8,,20,4.0,2,1,9.0,3,3.0,5,,1,4,1971,Yes
+947,52,No,Travel rarely,1325.0,Research & development,25,4,Life sciences,2,F,82.0,3,2,Laboratory technician,3,,3149.0,21821,8,,20,4.0,2,1,9.0,3,3.0,5,,1,4,1971,Yes
 948,33,Yes,Travel rarely,118.0,,16,3,Marketing,1,F,69.0,3,2,Sales executive,1,Single,5324.0,26507,5,,15,3.0,3,0,,3,3.0,3,,0,2,1990,No
-949,35,No,Travel rarely,1258.0,Research & development,20,4,,20,F,40.0,4,1,Research scientist,3,Single,,13301,3,No,13,3.0,3,0,7.0,0,3.0,2,,2,2,1988,No
+949,35,No,Travel rarely,1258.0,Research & development,20,4,,2,F,40.0,4,1,Research scientist,3,Single,,13301,3,No,13,3.0,3,0,7.0,0,3.0,2,,2,2,1988,No
 950,28,Yes,,890.0,,2,4,,3,M,,3,1,Research scientist,3,Single,4382.0,16374,6,No,17,3.0,4,0,5.0,3,2.0,2,,2,1,1995,Yes
 951,36,No,Travel rarely,1041.0,,13,3,Human resources,3,M,36.0,3,1,Human resources,2,Married,,25527,4,,13,3.0,2,1,,2,3.0,5,,0,4,1987,Yes
 952,34,No,Travel frequently,702.0,Research & development,16,4,,3,F,100.0,2,1,Research scientist,4,Single,2553.0,8306,1,No,16,3.0,3,0,6.0,3,3.0,5,,1,3,1989,Yes
@@ -976,7 +976,7 @@
 974,35,No,Travel rarely,1219.0,,48,3,,3,F,86.0,3,2,Sales executive,3,,,6179,1,,16,3.0,2,0,5.0,3,3.0,5,,1,0,1988,Yes
 975,31,Yes,,335.0,,9,2,Medical,3,M,46.0,2,1,Research scientist,1,Single,,10322,0,Yes,22,4.0,1,0,4.0,0,3.0,3,,1,2,1992,No
 976,33,No,Travel rarely,461.0,,13,1,Life sciences,2,F,53.0,3,1,Research scientist,4,Single,3452.0,17241,3,,18,3.0,1,0,5.0,4,3.0,3,,0,2,1990,No
-977,27,No,,1134.0,,24,4,,24,F,37.0,3,1,Laboratory technician,2,Married,2811.0,12086,9,No,14,3.0,2,1,4.0,2,3.0,2,,2,2,1996,No
+977,27,No,,1134.0,,24,4,,2,F,37.0,3,1,Laboratory technician,2,Married,2811.0,12086,9,No,14,3.0,2,1,4.0,2,3.0,2,,2,2,1996,No
 978,30,Yes,Travel rarely,138.0,,22,3,,1,F,48.0,3,1,Research scientist,3,Married,,11539,4,,11,3.0,2,0,,2,,5,,0,1,1993,Yes
 979,24,No,,1206.0,,17,1,Medical,4,F,41.0,2,2,Manufacturing director,3,Divorced,4377.0,24117,1,No,15,3.0,2,2,5.0,6,3.0,4,,3,2,1999,No
 980,35,Yes,Travel rarely,622.0,Research & development,14,4,Other,3,M,39.0,2,1,Laboratory technician,2,Divorced,,10074,1,Yes,24,4.0,4,1,5.0,2,1.0,4,,0,2,1988,No
@@ -989,9 +989,9 @@
 987,33,No,Non travel,1038.0,Sales,8,1,Life sciences,2,F,,2,1,Sales representative,4,,,21437,0,,19,3.0,4,0,,2,2.0,2,,2,2,1990,No
 988,26,Yes,,342.0,,2,3,Life sciences,1,M,57.0,3,1,Research scientist,1,Married,2042.0,15346,6,,14,3.0,2,1,6.0,2,3.0,3,,1,2,1997,Yes
 989,38,No,Travel frequently,1186.0,,3,4,,3,M,44.0,3,1,Research scientist,3,,2821.0,2997,3,No,16,3.0,1,1,8.0,2,3.0,2,,2,2,1985,No
-990,46,No,,430.0,,47,4,Medical,47,M,40.0,3,5,Research director,4,,,21445,9,No,17,3.0,4,2,23.0,0,3.0,2,,2,2,1977,Yes
+990,46,No,,430.0,,47,4,Medical,4,M,40.0,3,5,Research director,4,,,21445,9,No,17,3.0,4,2,23.0,0,3.0,2,,2,2,1977,Yes
 991,20,Yes,,769.0,,9,3,Marketing,4,F,54.0,3,1,Sales representative,4,Single,,17205,1,Yes,14,3.0,2,0,2.0,3,3.0,2,,0,2,2003,Yes
-992,30,No,,1176.0,,20,3,Other,20,M,85.0,3,2,Manufacturing director,1,Married,9957.0,9096,0,,15,3.0,3,1,7.0,1,2.0,6,,0,2,1993,No
+992,30,No,,1176.0,,20,3,Other,2,M,85.0,3,2,Manufacturing director,1,Married,9957.0,9096,0,,15,3.0,3,1,7.0,1,2.0,6,,0,2,1993,No
 993,27,No,Non travel,1277.0,,8,5,,1,M,87.0,1,1,Laboratory technician,3,Married,,5869,1,,19,3.0,4,3,3.0,4,,3,,1,2,1996,No
 994,55,No,,1091.0,,2,1,,4,M,65.0,3,3,Manufacturing director,2,Married,,15813,3,No,18,3.0,2,1,23.0,4,3.0,3,,1,2,1968,Yes
 995,33,No,Travel rarely,654.0,,5,3,Life sciences,4,M,34.0,2,3,Healthcare representative,4,,,21214,4,No,15,3.0,3,1,,2,3.0,3,,1,2,1990,Yes
@@ -1026,7 +1026,7 @@
 1024,58,No,,848.0,,23,4,Life sciences,1,M,88.0,3,1,Research scientist,3,,,26076,1,,12,3.0,4,2,,3,3.0,2,,2,2,1965,Yes
 1025,39,Yes,,,,23,3,Medical,3,M,93.0,3,1,Research scientist,1,Single,3904.0,22154,0,,13,3.0,1,0,6.0,2,3.0,5,,0,3,1984,No
 1026,30,No,Travel rarely,1138.0,,6,3,Technical degree,1,F,48.0,2,2,Laboratory technician,4,Married,4627.0,23631,0,No,12,3.0,1,1,10.0,6,3.0,9,,6,7,1993,Yes
-1027,50,No,,,,46,3,Life sciences,46,F,43.0,3,4,Research director,1,Married,,22422,4,,11,3.0,2,0,,2,,3,,1,2,1973,Yes
+1027,50,No,,,,46,3,Life sciences,4,F,43.0,3,4,Research director,1,Married,,22422,4,,11,3.0,2,0,,2,,3,,1,2,1973,Yes
 1028,41,No,,256.0,,10,2,Medical,3,M,40.0,1,2,Sales executive,2,Single,,22074,1,No,13,3.0,1,0,19.0,4,3.0,19,,11,9,1982,Yes
 1029,31,Yes,,,,1,3,,4,F,54.0,3,1,Sales representative,2,,2302.0,8319,1,Yes,11,3.0,1,0,,2,4.0,3,,2,2,1992,No
 1030,44,Yes,,935.0,,3,3,Life sciences,1,M,89.0,3,1,Laboratory technician,1,,,14669,4,No,12,,3,0,10.0,4,4.0,3,,1,2,1979,Yes
@@ -1064,14 +1064,14 @@
 1062,44,No,Travel frequently,1193.0,Research & development,2,1,,2,M,86.0,3,3,Manufacturing director,3,Single,,19719,5,,18,,2,0,16.0,2,2.0,2,,2,2,1979,Yes
 1063,55,No,Travel rarely,1229.0,,4,4,Life sciences,4,M,30.0,3,2,Healthcare representative,3,Married,,16143,0,,16,3.0,2,0,4.0,2,3.0,3,,1,2,1968,Yes
 1064,28,No,Travel frequently,467.0,,7,3,Life sciences,3,M,55.0,3,2,Sales executive,1,Single,4898.0,11827,0,,14,3.0,4,0,5.0,5,3.0,4,,1,3,1995,Yes
-1065,49,No,Travel rarely,271.0,,45,2,Medical,45,F,43.0,2,2,Laboratory technician,1,Married,,23070,4,,25,4.0,1,1,10.0,3,3.0,3,,1,2,1974,Yes
+1065,49,No,Travel rarely,271.0,,45,2,Medical,4,F,43.0,2,2,Laboratory technician,1,Married,,23070,4,,25,4.0,1,1,10.0,3,3.0,3,,1,2,1974,Yes
 1066,29,No,Travel frequently,410.0,,2,1,Life sciences,4,F,97.0,3,1,Laboratory technician,2,,3180.0,4668,0,No,13,3.0,3,3,,3,3.0,3,,0,2,1994,No
 1067,32,No,,495.0,,10,3,,3,M,64.0,3,3,Manager,4,,11244.0,21072,2,,25,,2,0,10.0,5,4.0,5,,0,0,1991,Yes
 1068,31,Yes,Travel frequently,561.0,,3,3,Life sciences,4,F,33.0,3,1,Research scientist,3,,,4156,1,No,12,3.0,1,0,7.0,2,,7,,7,7,1992,Yes
 1069,40,No,,1142.0,,43,2,Life sciences,4,M,72.0,3,2,Healthcare representative,4,Divorced,4069.0,8841,3,,18,3.0,3,0,8.0,2,3.0,2,,2,2,1983,No
 1070,36,No,Travel rarely,1157.0,,2,4,Life sciences,3,M,70.0,3,1,Sales representative,4,,,17001,3,Yes,21,4.0,4,0,7.0,3,2.0,3,,1,2,1987,No
 1071,33,No,,1242.0,,8,4,Life sciences,1,M,46.0,3,2,Sales executive,1,,6392.0,10589,2,No,13,3.0,4,1,,6,1.0,2,,2,2,1990,No
-1072,30,No,,1288.0,Sales,14,4,,14,M,33.0,3,3,Sales executive,2,Married,,17799,3,,12,3.0,2,1,9.0,3,3.0,4,,1,3,1993,Yes
+1072,30,No,,1288.0,Sales,14,4,,1,M,33.0,3,3,Sales executive,2,Married,,17799,3,,12,3.0,2,1,9.0,3,3.0,4,,1,3,1993,Yes
 1073,38,Yes,Travel rarely,903.0,,2,3,Medical,3,M,81.0,3,2,Manufacturing director,2,Married,4855.0,7653,4,,11,3.0,1,2,,2,3.0,5,,1,4,1985,No
 1074,48,No,Travel rarely,1108.0,Research & development,15,4,,3,F,65.0,3,1,Research scientist,1,Married,,16530,8,,12,3.0,4,1,,3,2.0,8,,7,6,1975,Yes
 1075,34,No,,1351.0,Research & development,1,4,,2,M,45.0,3,2,Research scientist,4,,,13008,9,No,17,3.0,2,1,,3,2.0,2,,2,1,1989,Yes
@@ -1079,7 +1079,7 @@
 1077,35,No,Travel rarely,,,10,4,,1,F,51.0,3,2,Healthcare representative,3,Single,,4223,3,Yes,16,3.0,3,0,,4,3.0,5,,0,4,1988,Yes
 1078,23,No,,977.0,,10,3,,4,M,45.0,4,1,Research scientist,3,Married,,12826,2,No,16,3.0,4,1,4.0,2,3.0,2,,2,2,2000,Yes
 1079,36,No,,1302.0,,6,4,,1,M,80.0,4,2,Laboratory technician,1,,,19711,3,Yes,13,3.0,4,1,9.0,3,3.0,3,,0,2,1987,No
-1080,34,No,Travel frequently,653.0,,36,4,,36,M,92.0,2,2,Healthcare representative,3,,,15332,1,No,14,3.0,2,1,8.0,3,2.0,8,,7,7,1989,No
+1080,34,No,Travel frequently,653.0,,36,4,,3,M,92.0,2,2,Healthcare representative,3,,,15332,1,No,14,3.0,2,1,8.0,3,2.0,8,,7,7,1989,No
 1081,22,No,Non travel,457.0,,26,2,Other,2,F,85.0,2,1,Research scientist,3,Married,,10293,1,,14,,2,0,4.0,2,2.0,4,,1,3,2001,Yes
 1082,32,No,,634.0,,5,4,,2,F,35.0,4,1,Research scientist,4,Married,3312.0,18783,3,No,17,3.0,4,2,6.0,3,3.0,3,,0,2,1991,Yes
 1083,31,No,Travel frequently,715.0,,2,4,,4,M,54.0,3,2,Sales executive,1,Single,,21602,7,,13,3.0,4,0,,3,3.0,5,,0,3,1992,No
@@ -1104,7 +1104,7 @@
 1102,20,No,Travel rarely,727.0,,9,1,,4,M,54.0,3,1,Sales representative,1,,,21082,1,No,11,3.0,1,0,,3,3.0,2,,0,2,2003,Yes
 1103,36,No,Travel rarely,1351.0,,26,4,,1,M,80.0,3,2,Healthcare representative,3,Married,,7419,6,No,14,3.0,2,2,10.0,2,2.0,3,,0,2,1987,No
 1104,44,No,Travel rarely,528.0,Human resources,1,3,,3,F,44.0,3,1,Human resources,4,,,4167,4,Yes,18,3.0,1,3,8.0,2,3.0,2,,2,2,1979,No
-1105,55,No,,1441.0,,12,3,Technical degree,12,M,94.0,2,1,Research scientist,2,Divorced,,23737,5,No,12,,4,1,8.0,1,3.0,4,,1,2,1968,Yes
+1105,55,No,,1441.0,,12,3,Technical degree,1,M,94.0,2,1,Research scientist,2,Divorced,,23737,5,No,12,,4,1,8.0,1,3.0,4,,1,2,1968,Yes
 1106,23,Yes,,427.0,,7,3,Life sciences,3,M,99.0,3,1,Sales representative,4,Divorced,,25103,1,Yes,21,4.0,2,1,3.0,2,3.0,3,,0,2,2000,No
 1107,26,No,,390.0,,17,4,,4,M,62.0,1,1,Laboratory technician,3,,2305.0,6217,1,No,15,3.0,3,3,,3,4.0,3,,0,2,1997,Yes
 1108,32,No,Travel frequently,585.0,,10,3,,1,M,,3,1,Research scientist,3,Married,3433.0,17360,6,,13,3.0,1,1,,3,2.0,5,,1,3,1991,Yes
@@ -1113,10 +1113,10 @@
 1111,24,No,Travel rarely,506.0,,29,1,Medical,2,M,91.0,3,1,Laboratory technician,1,,3907.0,3622,1,No,13,3.0,2,3,6.0,2,4.0,6,,1,2,1999,Yes
 1112,36,Yes,,1456.0,,13,5,Marketing,2,M,96.0,2,2,Sales executive,1,,,8658,5,Yes,13,3.0,2,3,16.0,3,3.0,2,,2,2,1987,Yes
 1113,23,No,,160.0,,4,1,,3,F,51.0,3,1,Laboratory technician,2,Single,,12862,1,No,13,3.0,3,0,3.0,3,1.0,3,2.0,1,2,2000,No
-1114,24,No,,897.0,,35,3,Medical,35,M,59.0,3,1,Human resources,4,Married,,2097,0,No,14,3.0,4,1,3.0,2,3.0,2,,2,1,1999,No
+1114,24,No,,897.0,,35,3,Medical,3,M,59.0,3,1,Human resources,4,Married,,2097,0,No,14,3.0,4,1,3.0,2,3.0,2,,2,1,1999,No
 1115,30,Yes,Travel frequently,600.0,,42,3,,3,F,,2,1,Human resources,4,Divorced,,9732,6,No,11,3.0,3,1,,0,2.0,4,,1,2,1993,No
 1116,31,No,,1003.0,,5,3,,1,M,51.0,3,2,Sales executive,3,,,20943,1,No,19,3.0,3,1,6.0,3,3.0,5,,0,2,1992,Yes
-1117,27,No,,1054.0,,48,3,,48,F,67.0,3,1,Research scientist,4,,3445.0,6152,1,,11,3.0,3,0,6.0,5,2.0,6,,1,4,1996,No
+1117,27,No,,1054.0,,48,3,,4,F,67.0,3,1,Research scientist,4,,3445.0,6152,1,,11,3.0,3,0,6.0,5,2.0,6,,1,4,1996,No
 1118,29,Yes,Travel rarely,428.0,,9,3,,2,F,,1,1,Sales representative,2,Single,2760.0,14630,1,,13,3.0,3,0,2.0,3,3.0,2,,2,2,1994,Yes
 1119,29,No,,461.0,,1,3,,4,M,70.0,4,2,Healthcare representative,3,,6294.0,23060,8,Yes,12,3.0,4,0,10.0,5,4.0,3,,0,2,1994,No
 1120,53,No,,661.0,,31,4,,1,F,60.0,2,4,Manufacturing director,3,Married,,22308,4,Yes,20,4.0,4,3,27.0,2,2.0,3,,0,2,1970,Yes
@@ -1125,7 +1125,7 @@
 1123,37,No,Travel rarely,589.0,Sales,9,2,Marketing,2,M,46.0,2,2,Sales executive,2,,,8800,1,No,14,3.0,1,2,,2,3.0,5,,0,3,1986,No
 1124,46,No,,849.0,,26,2,Life sciences,2,M,98.0,2,2,Sales executive,2,,,25166,8,,15,3.0,3,0,6.0,3,3.0,2,,2,2,1977,No
 1125,43,No,Non travel,343.0,Research & development,9,3,,1,M,52.0,3,1,Research scientist,3,,,24978,4,No,13,3.0,3,0,,2,2.0,3,,1,2,1980,Yes
-1126,41,No,Travel rarely,,,35,3,,35,M,85.0,4,2,Healthcare representative,2,Single,,15530,3,,12,3.0,1,0,,3,1.0,3,,1,2,1982,No
+1126,41,No,Travel rarely,,,35,3,,3,M,85.0,4,2,Healthcare representative,2,Single,,15530,3,,12,3.0,1,0,,3,1.0,3,,1,2,1982,No
 1127,31,No,,1125.0,,7,4,,1,F,,3,3,Sales executive,1,,,8277,2,No,14,3.0,4,2,9.0,3,3.0,3,,2,2,1992,No
 1128,28,No,Travel rarely,1217.0,,1,3,Medical,3,F,67.0,3,1,Research scientist,1,,3591.0,12719,1,No,25,4.0,3,1,,3,3.0,3,,1,2,1995,No
 1129,38,No,,723.0,Sales,2,4,,2,F,77.0,1,2,Sales representative,4,,5405.0,4244,2,Yes,20,4.0,1,2,20.0,4,2.0,4,,0,3,1985,Yes
@@ -1137,7 +1137,7 @@
 1135,39,No,Travel rarely,,,19,4,,4,M,41.0,3,2,Research scientist,4,,3902.0,5141,8,,14,3.0,2,3,7.0,2,3.0,2,,2,2,1984,Yes
 1136,55,No,Travel rarely,836.0,,2,4,,2,M,98.0,2,1,Research scientist,4,,2662.0,7975,8,,20,4.0,2,1,,2,4.0,5,,0,4,1968,No
 1137,29,No,,592.0,,7,3,Life sciences,4,M,59.0,3,1,Laboratory technician,1,Single,2062.0,19384,3,,14,3.0,2,0,,2,3.0,3,,1,2,1994,Yes
-1138,35,No,,219.0,,16,2,Other,16,F,44.0,2,2,Manufacturing director,2,Married,,25388,0,,11,3.0,4,0,4.0,2,3.0,3,,0,2,1988,No
+1138,35,No,,219.0,,16,2,Other,1,F,44.0,2,2,Manufacturing director,2,Married,,25388,0,,11,3.0,4,0,4.0,2,3.0,3,,0,2,1988,No
 1139,34,Yes,Non travel,967.0,,16,4,Technical degree,4,M,85.0,1,1,Research scientist,1,,,14460,1,,23,4.0,2,1,,2,3.0,5,,3,0,1989,Yes
 1140,56,Yes,Travel rarely,,,24,2,,1,M,,3,1,Laboratory technician,4,Single,2587.0,10261,1,No,16,3.0,4,0,5.0,3,3.0,4,,1,0,1967,Yes
 1141,36,No,,335.0,,17,2,Marketing,3,M,33.0,2,2,Sales executive,2,,5507.0,16822,2,,16,3.0,3,2,,1,1.0,4,,1,3,1987,Yes
@@ -1159,8 +1159,8 @@
 1157,32,No,Travel rarely,267.0,,29,4,,3,F,49.0,2,1,Laboratory technician,2,Single,,15919,1,,13,3.0,3,0,6.0,3,3.0,6,,4,1,1991,No
 1158,32,No,,234.0,,36,4,,2,M,68.0,2,1,Sales representative,2,,2269.0,18024,0,,14,3.0,2,1,,2,3.0,2,,2,2,1991,Yes
 1159,21,No,Travel rarely,501.0,Sales,5,1,Medical,3,M,58.0,3,1,Sales representative,1,Single,,25479,1,,11,3.0,4,0,,6,3.0,2,,1,2,2002,Yes
-1160,36,No,,688.0,,13,2,Life sciences,13,F,97.0,3,2,Manufacturing director,2,,,9192,7,No,13,3.0,2,3,18.0,3,3.0,4,,0,2,1987,Yes
-1161,29,Yes,Travel rarely,1092.0,,38,4,,38,M,36.0,3,1,Research scientist,4,Married,4787.0,26124,9,,14,3.0,2,3,4.0,3,4.0,2,,2,2,1994,Yes
+1160,36,No,,688.0,,13,2,Life sciences,1,F,97.0,3,2,Manufacturing director,2,,,9192,7,No,13,3.0,2,3,18.0,3,3.0,4,,0,2,1987,Yes
+1161,29,Yes,Travel rarely,1092.0,,38,4,,3,M,36.0,3,1,Research scientist,4,Married,4787.0,26124,9,,14,3.0,2,3,4.0,3,4.0,2,,2,2,1994,Yes
 1162,32,No,Travel rarely,529.0,,2,3,Technical degree,4,M,78.0,3,1,Research scientist,1,,,11288,1,No,14,3.0,4,0,,4,3.0,4,,1,2,1991,Yes
 1163,40,No,Travel rarely,1322.0,,2,4,,3,M,52.0,2,1,Research scientist,3,,2809.0,2725,2,No,14,3.0,4,0,8.0,2,3.0,2,,2,2,1983,Yes
 1164,35,No,Travel frequently,1199.0,,18,4,Life sciences,3,M,80.0,3,2,Healthcare representative,3,,,24594,1,,14,3.0,4,2,,2,4.0,10,,0,2,1988,No
@@ -1175,10 +1175,10 @@
 1173,27,No,,1450.0,,3,3,,3,M,79.0,2,1,Research scientist,3,Divorced,2566.0,25326,1,,15,3.0,4,1,1.0,2,2.0,1,,0,1,1996,Yes
 1174,33,No,Travel rarely,134.0,,2,3,Life sciences,3,M,90.0,3,1,Research scientist,4,,,10515,0,No,14,3.0,1,0,4.0,2,,3,,0,2,1990,Yes
 1175,36,No,Travel frequently,635.0,,18,1,,2,F,73.0,3,1,Laboratory technician,4,Single,,7703,1,,13,3.0,1,0,8.0,2,3.0,8,,1,7,1987,Yes
-1176,37,No,,1017.0,,18,2,Medical,18,F,83.0,2,1,Research scientist,1,,3920.0,18697,2,,14,,1,1,,2,2.0,3,,0,2,1986,Yes
+1176,37,No,,1017.0,,18,2,Medical,1,F,83.0,2,1,Research scientist,1,,3920.0,18697,2,,14,,1,1,,2,2.0,3,,0,2,1986,Yes
 1177,32,No,,1311.0,,7,3,,2,M,,4,1,Laboratory technician,2,Married,,26062,1,,20,4.0,3,0,5.0,3,1.0,5,,0,3,1991,Yes
-1178,51,No,Travel rarely,1302.0,,35,3,Medical,35,M,,1,2,Manufacturing director,2,Divorced,,16321,5,,18,3.0,4,1,,3,3.0,4,,1,2,1972,Yes
-1179,49,No,,1091.0,,45,2,Technical degree,45,F,90.0,2,4,Healthcare representative,3,,13964.0,17810,7,Yes,12,3.0,4,0,,2,3.0,7,,0,7,1974,Yes
+1178,51,No,Travel rarely,1302.0,,35,3,Medical,3,M,,1,2,Manufacturing director,2,Divorced,,16321,5,,18,3.0,4,1,,3,3.0,4,,1,2,1972,Yes
+1179,49,No,,1091.0,,45,2,Technical degree,4,F,90.0,2,4,Healthcare representative,3,,13964.0,17810,7,Yes,12,3.0,4,0,,2,3.0,7,,0,7,1974,Yes
 1180,35,No,,755.0,,9,4,,3,M,97.0,2,2,Healthcare representative,2,Single,6540.0,19394,9,,19,3.0,3,0,,5,3.0,1,,0,0,1988,Yes
 1181,22,No,,253.0,,11,3,Medical,1,F,43.0,3,1,Research scientist,2,Married,2244.0,24440,1,No,13,3.0,4,1,2.0,1,3.0,2,,1,2,2001,No
 1182,33,No,,922.0,,1,5,,1,F,95.0,4,4,Research director,3,,16184.0,22578,4,No,19,3.0,3,1,10.0,2,3.0,6,1.0,0,5,1990,No
@@ -1194,13 +1194,13 @@
 1192,37,Yes,,625.0,,1,4,Life sciences,1,M,46.0,2,3,Sales executive,3,Married,,14922,5,,11,3.0,3,0,,2,1.0,14,,11,7,1986,Yes
 1193,29,No,Travel frequently,1404.0,,18,3,Technical degree,3,F,84.0,3,1,Sales representative,4,,,18203,1,No,15,3.0,2,1,3.0,5,3.0,3,,0,2,1994,No
 1194,38,No,,1391.0,Research & development,10,1,,3,M,66.0,3,1,Research scientist,3,Married,2684.0,12127,0,,17,3.0,2,1,3.0,0,2.0,2,,0,2,1985,No
-1195,34,No,,216.0,,46,4,,46,M,75.0,4,2,Sales executive,4,Divorced,,12278,0,No,11,3.0,4,1,16.0,2,2.0,15,,0,9,1989,Yes
+1195,34,No,,216.0,,46,4,,4,M,75.0,4,2,Sales executive,4,Divorced,,12278,0,No,11,3.0,4,1,16.0,2,2.0,15,,0,9,1989,Yes
 1196,34,No,Travel rarely,1333.0,,10,4,Life sciences,3,F,87.0,3,1,Sales representative,3,Married,,18410,1,Yes,19,3.0,4,1,1.0,2,3.0,1,,0,0,1989,No
-1197,50,No,Travel rarely,1464.0,,12,4,Medical,12,M,62.0,3,5,Research director,3,Married,19237.0,12853,2,,11,3.0,4,1,29.0,2,2.0,8,,7,7,1973,No
+1197,50,No,Travel rarely,1464.0,,12,4,Medical,1,M,62.0,3,5,Research director,3,Married,19237.0,12853,2,,11,3.0,4,1,29.0,2,2.0,8,,7,7,1973,No
 1198,36,Yes,,1330.0,,21,3,,1,M,37.0,3,1,Laboratory technician,3,,2377.0,19373,1,No,20,,3,1,1.0,0,2.0,1,,0,0,1997,No
 1199,28,No,Travel frequently,773.0,Research & development,6,3,Life sciences,3,M,39.0,2,1,Research scientist,3,Divorced,,22088,1,Yes,14,3.0,4,1,,2,3.0,3,,0,2,1995,No
 1200,28,Yes,,1485.0,,12,1,,3,F,79.0,3,1,Laboratory technician,4,Married,,22955,1,,11,,4,0,,4,2.0,1,,0,0,1995,Yes
-1201,40,No,,902.0,,29,2,Medical,29,F,92.0,2,2,Research scientist,4,Married,4422.0,21203,3,Yes,13,3.0,4,1,16.0,3,1.0,1,,0,0,1983,Yes
+1201,40,No,,902.0,,29,2,Medical,2,F,92.0,2,2,Research scientist,4,Married,4422.0,21203,3,Yes,13,3.0,4,1,16.0,3,1.0,1,,0,0,1983,Yes
 1202,19,No,Travel rarely,645.0,,47,2,,3,M,54.0,3,1,Research scientist,1,Single,2552.0,7172,1,No,25,,3,0,1.0,4,3.0,1,,0,0,2004,No
 1203,20,No,Travel rarely,654.0,,21,3,Marketing,3,M,43.0,4,1,Sales representative,4,Single,2678.0,5050,1,,17,3.0,4,0,2.0,2,3.0,2,,2,2,2003,Yes
 1204,40,No,,107.0,,10,3,,2,F,84.0,2,2,Sales executive,2,Divorced,,11591,7,No,12,3.0,2,1,7.0,2,4.0,5,,1,3,1983,No
@@ -1231,13 +1231,13 @@
 1229,22,No,,1123.0,,16,2,,4,M,96.0,4,1,Laboratory technician,4,,,7324,1,Yes,13,3.0,2,2,,2,2.0,1,,0,0,2001,No
 1230,21,No,Travel rarely,391.0,,15,2,,3,M,96.0,3,1,Research scientist,4,Single,,19281,1,No,14,3.0,4,0,0.0,6,3.0,0,,0,0,2002,Yes
 1231,30,No,Travel rarely,125.0,,9,2,Medical,4,M,83.0,2,1,Laboratory technician,3,,,16117,1,,13,3.0,1,0,10.0,5,3.0,10,,1,8,1993,No
-1232,39,Yes,Travel rarely,895.0,,18,3,Technical degree,18,M,56.0,3,2,Sales representative,4,Married,2086.0,3335,3,No,14,3.0,3,1,19.0,6,4.0,1,,0,0,1984,Yes
+1232,39,Yes,Travel rarely,895.0,,18,3,Technical degree,1,M,56.0,3,2,Sales representative,4,Married,2086.0,3335,3,No,14,3.0,3,1,19.0,6,4.0,1,,0,0,1984,Yes
 1233,24,Yes,Travel rarely,813.0,,1,3,,2,M,61.0,3,1,Research scientist,4,,,3020,2,Yes,16,3.0,1,1,6.0,2,,2,,2,0,1999,No
 1234,35,No,,,Research & development,4,2,Other,3,M,75.0,3,1,Laboratory technician,4,Divorced,1951.0,10910,1,,12,3.0,3,1,1.0,3,3.0,1,,0,0,1988,Yes
 1235,27,No,,1240.0,,2,4,Life sciences,4,F,33.0,3,1,Laboratory technician,1,Divorced,,19715,1,,13,3.0,4,1,,6,3.0,1,,0,0,1996,No
 1236,26,Yes,,1357.0,,25,3,Life sciences,1,M,48.0,1,1,Laboratory technician,3,Single,,10558,1,,12,3.0,3,0,1.0,2,2.0,1,,0,1,1997,No
 1237,37,No,,,Research & development,24,2,Life sciences,2,M,73.0,3,1,Research scientist,2,Married,3022.0,10227,4,No,21,4.0,1,0,8.0,1,3.0,1,,0,0,1986,No
-1238,35,No,,1229.0,,46,1,,46,M,36.0,4,1,Laboratory technician,4,,,4892,1,No,19,,4,0,1.0,2,3.0,1,,0,1,1988,Yes
+1238,35,No,,1229.0,,46,1,,4,M,36.0,4,1,Laboratory technician,4,,,4892,1,No,19,,4,0,1.0,2,3.0,1,,0,1,1988,Yes
 1239,48,Yes,,626.0,,1,2,,1,M,98.0,2,3,Laboratory technician,3,,,19294,9,,13,3.0,4,0,,2,3.0,1,,0,0,1975,No
 1240,35,No,Non travel,1097.0,,11,2,Medical,3,M,79.0,2,3,Healthcare representative,1,Married,,8302,2,Yes,13,3.0,3,1,10.0,3,3.0,4,,2,3,1988,Yes
 1241,55,No,Travel rarely,836.0,,8,3,,4,F,,3,4,Manager,3,Divorced,,19730,2,Yes,14,3.0,3,3,21.0,2,3.0,5,,0,2,1968,Yes
@@ -1251,7 +1251,7 @@
 1249,20,Yes,,871.0,Research & development,6,3,Life sciences,4,F,66.0,2,1,Laboratory technician,4,Single,2926.0,19783,1,Yes,18,,2,0,,5,3.0,1,,1,0,2003,No
 1250,37,No,,1040.0,,2,2,Life sciences,3,M,100.0,2,2,Healthcare representative,4,Divorced,,15850,5,No,14,3.0,4,1,17.0,2,4.0,1,,0,0,1986,No
 1251,22,No,,,Research & development,15,3,,2,F,59.0,3,1,Laboratory technician,4,Single,,23785,1,No,15,3.0,3,0,,5,3.0,0,,0,0,2001,No
-1252,34,No,,1031.0,,24,4,Life sciences,24,F,45.0,2,2,Research scientist,2,,4505.0,15000,6,,15,3.0,3,1,,3,3.0,1,,0,0,1989,Yes
+1252,34,No,,1031.0,,24,4,Life sciences,2,F,45.0,2,2,Research scientist,2,,4505.0,15000,6,,15,3.0,3,1,,3,3.0,1,,0,0,1989,Yes
 1253,36,No,,922.0,,3,2,Life sciences,1,F,39.0,3,1,Laboratory technician,4,Divorced,2835.0,2561,5,,22,4.0,1,1,,2,3.0,1,,0,0,1987,No
 1254,19,Yes,Travel rarely,528.0,Sales,22,1,Marketing,4,M,,3,1,Sales representative,3,Single,,26820,1,Yes,19,3.0,4,0,0.0,2,2.0,0,,0,0,2004,Yes
 1255,41,No,,,,9,4,Life sciences,3,M,94.0,3,1,Laboratory technician,1,,,6961,2,,21,4.0,4,1,7.0,2,3.0,5,,1,4,1982,Yes
@@ -1274,13 +1274,13 @@
 1272,29,No,Travel rarely,1210.0,,2,3,Medical,1,M,78.0,2,2,Sales executive,2,Married,6644.0,3687,2,No,19,3.0,2,2,10.0,2,,0,,0,0,1994,Yes
 1273,31,No,Travel rarely,1463.0,Research & development,23,3,Medical,2,M,64.0,2,2,Healthcare representative,4,,,14408,0,No,21,,2,1,10.0,2,3.0,9,,7,8,1992,Yes
 1274,38,No,Travel rarely,322.0,,7,2,Medical,1,F,44.0,4,2,Sales executive,1,,5605.0,19191,1,Yes,24,4.0,3,1,8.0,3,3.0,8,,7,7,1985,No
-1275,44,Yes,Travel frequently,920.0,,12,3,Life sciences,12,M,43.0,3,1,Laboratory technician,3,,3161.0,19920,3,Yes,22,4.0,4,1,19.0,0,1.0,1,,0,0,1979,Yes
+1275,44,Yes,Travel frequently,920.0,,12,3,Life sciences,1,M,43.0,3,1,Laboratory technician,3,,3161.0,19920,3,Yes,22,4.0,4,1,19.0,0,1.0,1,,0,0,1979,Yes
 1276,36,No,,506.0,,3,3,Technical degree,3,M,30.0,3,2,Research scientist,2,Single,,26285,4,,12,3.0,4,0,10.0,2,3.0,8,,7,7,1987,Yes
 1277,18,Yes,,,Research & development,3,3,,3,M,54.0,3,1,Laboratory technician,3,Single,1420.0,25233,1,No,13,3.0,3,0,0.0,2,3.0,0,,0,0,2005,Yes
 1278,36,No,,566.0,,18,4,Life sciences,3,M,81.0,4,1,Laboratory technician,4,Married,,7122,4,No,18,3.0,4,2,4.0,2,3.0,1,,0,0,1987,Yes
 1279,18,No,,812.0,,10,3,,4,F,69.0,2,1,Sales representative,3,,1200.0,9724,1,No,12,3.0,1,0,0.0,2,3.0,0,,0,0,2005,No
 1280,39,Yes,Travel rarely,1162.0,,3,2,,4,F,41.0,3,2,Sales executive,3,Married,5238.0,17778,4,Yes,18,3.0,1,0,12.0,3,2.0,1,,0,0,1984,Yes
-1281,43,No,Travel rarely,1001.0,Research & development,15,3,,15,F,43.0,3,3,Healthcare representative,1,Married,9985.0,9262,8,No,16,3.0,1,1,,1,2.0,1,,0,0,1980,Yes
+1281,43,No,Travel rarely,1001.0,Research & development,15,3,,1,F,43.0,3,3,Healthcare representative,1,Married,9985.0,9262,8,No,16,3.0,1,1,,1,2.0,1,,0,0,1980,Yes
 1282,47,No,Travel frequently,1309.0,,4,1,Medical,2,M,99.0,3,2,Sales representative,3,,,25751,3,No,19,3.0,1,0,5.0,3,3.0,0,,0,0,1976,No
 1283,42,No,Travel rarely,810.0,,23,5,,1,F,44.0,3,4,Research director,4,Single,15992.0,15901,2,No,14,3.0,2,0,16.0,2,3.0,1,,0,0,1981,No
 1284,32,No,,1062.0,,2,3,,3,F,75.0,3,1,Laboratory technician,2,Married,2370.0,3956,1,No,13,,3,1,8.0,4,3.0,8,,0,7,1991,Yes
@@ -1300,7 +1300,7 @@
 1298,57,No,Travel rarely,210.0,,29,3,,1,M,56.0,2,4,Manager,4,Divorced,,22102,3,No,12,3.0,3,1,,3,2.0,1,,0,0,1966,Yes
 1299,47,No,Travel rarely,983.0,,2,2,Medical,1,F,65.0,3,2,Manufacturing director,4,,5070.0,7389,5,,13,,3,3,20.0,2,3.0,5,,0,4,1976,Yes
 1300,54,No,Travel rarely,548.0,,8,4,Life sciences,3,F,42.0,3,2,Laboratory technician,3,Single,3780.0,23428,7,,11,3.0,3,0,,3,3.0,1,,0,0,1969,No
-1301,31,Yes,Travel frequently,534.0,,42,3,,42,M,66.0,3,3,Healthcare representative,3,,9824.0,22908,3,No,12,3.0,1,0,12.0,2,3.0,1,,0,0,1992,Yes
+1301,31,Yes,Travel frequently,534.0,,42,3,,4,M,66.0,3,3,Healthcare representative,3,,9824.0,22908,3,No,12,3.0,1,0,12.0,2,3.0,1,,0,0,1992,Yes
 1302,18,Yes,Travel frequently,1306.0,,5,3,Marketing,2,M,69.0,3,1,Sales representative,2,,1878.0,8059,1,Yes,14,3.0,4,0,,3,3.0,0,,0,0,2005,No
 1303,40,No,,1094.0,,28,3,Other,3,M,58.0,1,3,Sales executive,1,,,11373,3,No,15,3.0,3,1,20.0,2,3.0,1,,0,1,1983,Yes
 1304,26,No,,775.0,,29,2,,1,M,45.0,3,2,Sales executive,3,,,4267,5,,12,3.0,1,2,8.0,5,3.0,0,,0,0,1997,Yes
@@ -1316,7 +1316,7 @@
 1314,30,No,,160.0,,3,3,,3,F,71.0,3,1,Research scientist,3,,2083.0,22653,1,No,20,4.0,3,1,1.0,2,,1,,0,0,1993,No
 1315,29,No,,,Sales,44,2,Medical,2,F,62.0,3,2,Sales executive,3,,,3487,1,No,14,3.0,1,1,,5,2.0,6,,1,2,1994,No
 1316,20,Yes,,1362.0,,10,1,Medical,4,M,32.0,3,1,Research scientist,3,Single,1009.0,26999,1,,11,3.0,4,0,,5,3.0,1,,1,1,2003,Yes
-1317,35,No,Non travel,727.0,,20,3,,20,M,41.0,2,1,Laboratory technician,3,Married,,16900,1,No,18,3.0,3,2,1.0,3,3.0,1,,0,0,1988,No
+1317,35,No,Non travel,727.0,,20,3,,2,M,41.0,2,1,Laboratory technician,3,Married,,16900,1,No,18,3.0,3,2,1.0,3,3.0,1,,0,0,1988,No
 1318,37,No,,1225.0,,10,2,Life sciences,4,M,80.0,4,1,Research scientist,4,Single,,15232,3,No,17,3.0,1,0,,2,,1,,0,0,1986,Yes
 1319,38,No,,168.0,,1,3,,3,F,81.0,3,3,Manufacturing director,3,Single,7861.0,15397,4,Yes,14,,4,0,10.0,4,,1,,0,0,1985,Yes
 1320,29,No,,1396.0,,10,3,,3,M,,3,1,Sales representative,3,Single,2642.0,2755,1,No,11,3.0,3,0,1.0,6,,1,,0,0,1994,No
@@ -1333,12 +1333,12 @@
 1331,37,No,,342.0,,16,4,Marketing,4,M,66.0,2,2,Sales executive,3,,,24558,4,,19,,4,2,9.0,2,3.0,1,,0,0,1986,Yes
 1332,32,No,,300.0,,1,3,Life sciences,4,M,61.0,3,1,Laboratory technician,4,Divorced,2314.0,9148,0,No,12,,2,1,4.0,2,3.0,3,,0,2,1991,Yes
 1333,53,No,Travel rarely,868.0,,8,3,Marketing,1,M,73.0,3,4,Sales executive,4,Married,,22789,5,,14,3.0,3,1,28.0,3,3.0,2,,2,2,1970,Yes
-1334,37,No,,1252.0,,19,2,,19,M,32.0,3,3,Sales executive,2,Single,,4814,1,Yes,13,3.0,4,0,,2,3.0,10,,0,9,1986,No
+1334,37,No,,1252.0,,19,2,,1,M,32.0,3,3,Sales executive,2,Single,,4814,1,Yes,13,3.0,4,0,,2,3.0,10,,0,9,1986,No
 1335,32,Yes,Travel rarely,374.0,,25,4,,1,M,87.0,3,1,Laboratory technician,4,,,18016,1,,24,4.0,3,0,1.0,2,1.0,1,,0,1,1991,Yes
 1336,58,Yes,Travel frequently,781.0,,2,1,,4,M,57.0,2,1,Laboratory technician,4,Divorced,2380.0,13384,9,,14,3.0,4,1,3.0,3,2.0,1,,0,0,1965,Yes
 1337,43,No,Travel rarely,177.0,,8,3,,1,F,55.0,3,2,Manufacturing director,2,Divorced,,23814,4,No,21,4.0,3,1,4.0,2,4.0,1,,0,0,1980,No
 1338,21,Yes,Travel rarely,1427.0,Research & development,18,1,Other,4,F,65.0,3,1,Research scientist,4,Single,,8870,1,No,19,,1,0,,3,2.0,1,,0,0,2002,No
-1339,34,No,,546.0,,48,3,Life sciences,48,M,83.0,3,1,Laboratory technician,2,,2008.0,6896,1,No,14,3.0,2,2,1.0,3,3.0,1,,1,0,1989,Yes
+1339,34,No,,546.0,,48,3,Life sciences,4,M,83.0,3,1,Laboratory technician,2,,2008.0,6896,1,No,14,3.0,2,2,1.0,3,3.0,1,,1,0,1989,Yes
 1340,58,No,,1272.0,,5,3,,3,F,37.0,2,3,Healthcare representative,2,Divorced,10552.0,9255,2,,13,,4,1,24.0,3,3.0,6,,0,4,1965,No
 1341,48,No,,,,20,4,Medical,4,M,51.0,3,1,Research scientist,3,Married,2259.0,5543,4,,17,3.0,1,2,13.0,2,2.0,0,,0,0,1975,No
 1342,32,No,Non travel,1184.0,,1,3,Life sciences,3,F,70.0,2,1,Laboratory technician,2,Married,,3974,6,No,20,,3,0,5.0,3,3.0,3,,0,2,1991,Yes
@@ -1373,7 +1373,7 @@
 1371,35,No,Travel rarely,982.0,Research & development,1,4,Medical,4,M,58.0,2,1,Laboratory technician,3,,2258.0,16340,6,No,12,3.0,2,1,,2,3.0,8,,1,7,1988,Yes
 1372,32,No,,862.0,Sales,2,1,,3,F,76.0,3,1,Sales representative,1,,2827.0,14947,1,,12,3.0,3,3,1.0,3,3.0,1,,0,0,1991,Yes
 1373,22,Yes,,1256.0,,3,4,Life sciences,3,M,48.0,2,1,Research scientist,4,Married,2853.0,4223,0,Yes,11,3.0,2,1,1.0,5,3.0,0,,0,0,2001,Yes
-1374,44,No,Non travel,111.0,,26,3,,26,M,74.0,1,1,Research scientist,3,Single,2290.0,4279,2,No,13,,4,0,6.0,3,3.0,0,,0,0,1979,Yes
+1374,44,No,Non travel,111.0,,26,3,,2,M,74.0,1,1,Research scientist,3,Single,2290.0,4279,2,No,13,,4,0,6.0,3,3.0,0,,0,0,1979,Yes
 1375,41,Yes,Non travel,906.0,,5,2,Life sciences,1,M,95.0,2,1,Research scientist,1,,2107.0,20293,6,No,17,3.0,1,1,5.0,2,1.0,1,,0,0,1982,Yes
 1376,40,No,Travel frequently,1184.0,,2,4,,2,M,62.0,3,2,Sales executive,2,,,25440,5,No,12,3.0,4,3,,2,3.0,0,,0,0,1983,No
 1377,24,Yes,,984.0,,17,2,Life sciences,4,F,97.0,3,1,Laboratory technician,2,,2210.0,3372,1,,13,3.0,1,1,1.0,3,1.0,1,,0,0,1999,Yes
@@ -1397,7 +1397,7 @@
 1395,27,No,Travel rarely,1377.0,,11,1,Life sciences,2,M,91.0,3,1,Laboratory technician,1,Married,,7679,0,,14,3.0,2,0,6.0,3,4.0,5,,1,4,1996,No
 1396,39,Yes,,592.0,,2,3,,1,F,54.0,2,1,Laboratory technician,1,Single,,17181,2,Yes,23,4.0,2,0,11.0,2,4.0,1,,0,0,1984,Yes
 1397,44,No,Travel frequently,383.0,,1,5,Marketing,1,F,79.0,3,2,Sales executive,3,Married,4768.0,9282,7,,12,,3,1,11.0,4,2.0,1,,0,0,1979,No
-1398,30,No,,990.0,Research & development,25,3,,25,M,,3,1,Research scientist,3,,1274.0,7152,1,,13,3.0,2,2,1.0,2,2.0,1,,0,0,1993,No
+1398,30,No,,990.0,Research & development,25,3,,2,M,,3,1,Research scientist,3,,1274.0,7152,1,,13,3.0,2,2,1.0,2,2.0,1,,0,0,1993,No
 1399,35,No,Travel rarely,660.0,,26,1,Life sciences,4,M,76.0,3,1,Sales representative,3,,2404.0,16192,1,No,13,,1,1,1.0,3,3.0,1,0.0,0,0,1988,Yes
 1400,24,Yes,Travel frequently,381.0,,9,3,,2,M,89.0,3,1,Laboratory technician,1,,,16998,2,,11,3.0,3,0,,2,2.0,0,,0,0,1999,No
 1401,24,No,,830.0,,13,2,,4,F,78.0,3,1,Sales representative,2,Married,2033.0,7103,1,,13,3.0,3,1,1.0,2,,1,,0,0,1999,Yes
@@ -1408,11 +1408,11 @@
 1406,42,No,,1210.0,,2,3,Medical,3,M,68.0,2,1,Laboratory technician,2,Married,4841.0,24052,4,,14,,2,1,,3,,1,,0,0,1981,Yes
 1407,29,No,Travel rarely,598.0,,9,3,,3,M,91.0,4,1,Research scientist,3,Married,,22376,6,No,18,3.0,1,2,,2,2.0,1,0.0,0,0,1994,No
 1408,35,No,Travel rarely,992.0,,1,3,,4,M,68.0,2,1,Laboratory technician,1,,,21731,1,No,19,3.0,2,0,,3,3.0,3,,1,2,1988,No
-1409,35,Yes,Travel rarely,104.0,,14,3,,14,F,69.0,3,1,Laboratory technician,1,,2074.0,26619,1,,12,3.0,4,1,1.0,2,3.0,1,,0,0,1988,Yes
-1410,34,No,,479.0,,13,4,Medical,13,M,35.0,3,1,Research scientist,4,Single,2972.0,22061,1,,13,3.0,3,0,,4,,1,,0,0,1989,No
+1409,35,Yes,Travel rarely,104.0,,14,3,,1,F,69.0,3,1,Laboratory technician,1,,2074.0,26619,1,,12,3.0,4,1,1.0,2,3.0,1,,0,0,1988,Yes
+1410,34,No,,479.0,,13,4,Medical,1,M,35.0,3,1,Research scientist,4,Single,2972.0,22061,1,,13,3.0,3,0,,4,,1,,0,0,1989,No
 1411,26,No,Travel rarely,474.0,,3,3,,1,F,89.0,3,1,Research scientist,4,,,11133,1,,21,4.0,1,0,1.0,5,3.0,1,,0,0,1997,Yes
 1412,36,No,Travel rarely,884.0,,1,4,Life sciences,2,F,73.0,3,2,Sales executive,3,Single,6815.0,21447,6,No,13,3.0,1,0,,5,3.0,1,,0,0,1987,Yes
-1413,50,No,,264.0,,24,3,Marketing,24,M,59.0,3,5,Manager,3,Married,,19519,4,Yes,16,,3,1,,2,3.0,1,,0,0,1973,No
+1413,50,No,,264.0,,24,3,Marketing,2,M,59.0,3,5,Manager,3,Married,,19519,4,Yes,16,,3,1,,2,3.0,1,,0,0,1973,No
 1414,42,No,Travel rarely,1059.0,,9,2,,4,M,93.0,2,5,Manager,4,,,26362,8,No,22,4.0,4,0,24.0,2,3.0,1,,0,1,1981,No
 1415,35,No,,1349.0,,7,2,Life sciences,3,M,63.0,2,1,Laboratory technician,4,,2690.0,7713,1,No,18,3.0,4,1,,5,2.0,1,,0,1,1988,No
 1416,46,No,Travel rarely,563.0,,1,4,Life sciences,4,M,56.0,4,4,Manager,1,,17567.0,3156,1,,15,3.0,2,0,27.0,5,1.0,26,,0,12,1977,No
@@ -1428,7 +1428,7 @@
 1426,30,No,Travel rarely,793.0,,21,1,,2,M,33.0,3,1,Research scientist,4,Married,2862.0,3811,1,No,12,3.0,2,1,10.0,2,2.0,10,,0,8,1993,Yes
 1427,47,No,Non travel,543.0,,2,4,Marketing,3,M,87.0,3,2,Sales executive,2,,,3536,7,No,11,3.0,4,1,4.0,3,1.0,1,,0,0,1976,Yes
 1428,32,Yes,Travel rarely,964.0,Sales,1,2,,1,M,,1,2,Sales executive,2,Single,6735.0,12147,6,,15,3.0,2,0,10.0,2,3.0,0,,0,0,1991,No
-1429,45,No,Travel rarely,176.0,,41,3,Life sciences,41,F,56.0,1,3,Human resources,3,Married,9756.0,6595,4,,21,4.0,3,2,9.0,2,4.0,5,,0,3,1978,Yes
+1429,45,No,Travel rarely,176.0,,41,3,Life sciences,4,F,56.0,1,3,Human resources,3,Married,9756.0,6595,4,,21,4.0,3,2,9.0,2,4.0,5,,0,3,1978,Yes
 1430,34,No,,181.0,,2,4,,4,M,97.0,4,1,Research scientist,4,Married,,5586,0,Yes,14,3.0,1,3,6.0,3,3.0,5,,1,2,1989,No
 1431,33,Yes,,211.0,,16,3,,1,F,74.0,3,3,Sales executive,1,,,10092,2,Yes,20,4.0,3,0,,2,2.0,0,,0,0,1990,Yes
 1432,31,Yes,Travel rarely,1079.0,,16,4,,1,M,70.0,3,3,Sales executive,3,Married,,19002,2,,13,3.0,1,3,,2,3.0,1,,0,0,1992,Yes
@@ -1501,9 +1501,9 @@
 1499,31,No,Travel rarely,196.0,,29,4,Marketing,1,F,91.0,2,2,Sales executive,4,,5468.0,13402,1,,14,3.0,1,2,,3,3.0,12,,5,7,1992,Yes
 1500,35,Yes,,303.0,,27,3,,3,M,84.0,3,2,Sales executive,4,,5813.0,13492,1,,18,3.0,4,0,,2,3.0,10,,7,7,1988,Yes
 1501,35,No,Non travel,1180.0,Research & development,2,2,Medical,2,M,90.0,3,2,Manufacturing director,4,Divorced,,24442,2,No,14,3.0,3,1,15.0,6,3.0,7,,1,7,1988,No
-1502,30,No,,1092.0,,47,3,Medical,47,F,64.0,3,3,Manufacturing director,3,Single,9667.0,2739,9,No,14,3.0,2,0,9.0,3,3.0,7,,0,2,1993,No
+1502,30,No,,1092.0,,47,3,Medical,4,F,64.0,3,3,Manufacturing director,3,Single,9667.0,2739,9,No,14,3.0,2,0,9.0,3,3.0,7,,0,2,1993,No
 1503,46,Yes,Travel rarely,261.0,,21,2,Medical,4,F,66.0,3,2,Healthcare representative,2,Married,,10842,4,No,22,4.0,4,1,13.0,2,4.0,9,7.0,3,7,1977,No
-1504,45,No,Non travel,589.0,,48,4,,48,F,67.0,3,2,Sales executive,3,Married,5154.0,19665,4,,22,4.0,2,2,10.0,3,4.0,8,,5,7,1978,Yes
+1504,45,No,Non travel,589.0,,48,4,,4,F,67.0,3,2,Sales executive,3,Married,5154.0,19665,4,,22,4.0,2,2,10.0,3,4.0,8,,5,7,1978,Yes
 1505,43,No,Travel frequently,1422.0,,2,4,Life sciences,1,M,92.0,3,2,Sales executive,4,Married,5675.0,19246,1,,20,4.0,3,1,7.0,5,3.0,7,,7,7,1980,No
 1506,46,Yes,,,,10,3,Life sciences,3,F,64.0,3,3,Sales executive,2,,7314.0,14011,5,,21,4.0,3,3,14.0,2,3.0,8,,0,7,1977,No
 1507,40,No,Travel rarely,1137.0,Research & development,1,4,,1,M,98.0,3,4,Manager,1,,,18991,2,,11,3.0,1,1,22.0,3,,19,,11,16,1983,Yes
@@ -1544,7 +1544,7 @@
 1542,47,Yes,Non travel,666.0,,29,4,Life sciences,1,M,88.0,3,3,Manager,2,Married,,10268,1,,12,3.0,4,1,,2,2.0,10,,9,9,1976,No
 1543,35,No,,1315.0,,38,3,Life sciences,2,F,71.0,4,3,Manager,2,Divorced,,19100,7,,18,,2,1,10.0,6,2.0,7,,6,2,1988,Yes
 1544,29,No,Travel frequently,442.0,,2,2,,2,M,44.0,3,2,Sales executive,4,Single,,20260,1,,18,3.0,1,0,,3,,10,,0,9,1994,Yes
-1545,55,No,Travel rarely,147.0,Research & development,17,2,Technical degree,17,M,37.0,3,2,Laboratory technician,4,Married,,15972,3,,19,,4,1,12.0,4,3.0,10,,0,8,1968,Yes
+1545,55,No,Travel rarely,147.0,Research & development,17,2,Technical degree,1,M,37.0,3,2,Laboratory technician,4,Married,,15972,3,,19,,4,1,12.0,4,3.0,10,,0,8,1968,Yes
 1546,26,Yes,Travel rarely,950.0,,4,4,,4,M,48.0,2,2,Sales executive,4,Single,5828.0,8450,1,,12,3.0,2,0,,0,,8,,7,4,1997,Yes
 1547,31,No,Travel rarely,218.0,,7,3,Technical degree,2,M,100.0,4,2,Sales executive,4,,,12241,4,,11,3.0,2,1,10.0,3,2.0,8,,7,7,1992,No
 1548,43,No,Travel frequently,,,10,4,Life sciences,3,F,33.0,3,1,Laboratory technician,4,,2455.0,10675,0,No,19,3.0,1,0,,5,3.0,8,,1,7,1980,No
@@ -1559,7 +1559,7 @@
 1557,26,No,Travel rarely,933.0,,1,3,,3,M,57.0,3,2,Sales executive,3,,,20156,1,,17,3.0,2,1,,3,3.0,8,,7,7,1997,No
 1558,40,No,Travel rarely,1171.0,,10,4,Life sciences,4,F,46.0,4,1,Laboratory technician,3,Married,,22495,3,Yes,13,3.0,3,1,,3,3.0,7,,1,7,1983,Yes
 1559,41,Yes,,143.0,,4,3,,1,M,56.0,3,2,Sales executive,2,,,9558,1,No,18,3.0,3,0,8.0,5,3.0,8,,7,7,1982,Yes
-1560,51,No,Travel rarely,1178.0,,31,2,,31,F,87.0,3,2,Sales executive,4,,,14862,4,No,11,3.0,3,1,18.0,2,2.0,7,,0,7,1972,No
+1560,51,No,Travel rarely,1178.0,,31,2,,3,F,87.0,3,2,Sales executive,4,,,14862,4,No,11,3.0,3,1,18.0,2,2.0,7,,0,7,1972,No
 1561,37,No,,1107.0,,14,3,,4,F,95.0,3,1,Laboratory technician,1,,3034.0,26914,1,No,12,3.0,3,1,,2,2.0,18,,12,17,1986,No
 1562,56,No,,906.0,,6,3,Life sciences,3,F,86.0,4,4,Sales executive,1,Married,13212.0,18256,9,No,11,3.0,4,3,36.0,0,2.0,7,,7,7,1967,Yes
 1563,41,No,Travel rarely,645.0,Sales,1,3,Marketing,2,M,49.0,4,3,Sales executive,1,Married,8392.0,19566,1,,16,3.0,3,1,10.0,2,3.0,10,,0,7,1982,Yes
@@ -1589,7 +1589,7 @@
 1587,41,No,,314.0,,1,3,,4,M,59.0,2,5,Manager,3,,19189.0,19562,1,No,12,,2,1,22.0,3,3.0,22,,2,10,1982,No
 1588,28,Yes,,654.0,Research & development,1,2,,1,F,67.0,1,1,Research scientist,2,,2216.0,3872,7,Yes,13,3.0,4,0,10.0,4,3.0,7,,3,7,1995,Yes
 1589,36,No,,427.0,Research & development,8,3,,1,F,63.0,4,3,Research director,1,Married,11713.0,20335,9,,14,3.0,1,1,10.0,2,3.0,8,,0,5,1987,No
-1590,30,No,,501.0,,35,5,Marketing,35,M,99.0,3,2,Sales executive,4,Divorced,5304.0,25275,7,No,23,,4,1,10.0,2,2.0,8,,7,7,1993,No
+1590,30,No,,501.0,,35,5,Marketing,3,M,99.0,3,2,Sales executive,4,Divorced,5304.0,25275,7,No,23,,4,1,10.0,2,2.0,8,,7,7,1993,No
 1591,56,No,Travel rarely,,,9,3,,3,M,81.0,3,4,Healthcare representative,4,Married,11103.0,20420,7,No,11,3.0,3,0,30.0,1,2.0,10,,1,1,1967,Yes
 1592,45,No,Travel rarely,954.0,,2,2,,2,M,46.0,1,2,Sales representative,3,Single,6632.0,12388,0,No,13,3.0,1,0,9.0,3,3.0,8,,3,1,1978,Yes
 1593,36,No,Non travel,1434.0,,8,4,,1,M,76.0,2,3,Sales executive,1,Single,7587.0,14229,1,,15,3.0,2,0,10.0,1,3.0,10,,0,9,1987,Yes
@@ -1600,7 +1600,7 @@
 1598,36,No,Travel rarely,676.0,,1,3,Other,3,F,35.0,3,2,Manufacturing director,2,,5228.0,23361,0,,15,3.0,1,1,,2,3.0,9,,0,5,1987,Yes
 1599,29,No,Travel rarely,,,23,2,,3,M,81.0,4,1,Research scientist,3,Married,2700.0,23779,1,,24,4.0,3,1,10.0,3,3.0,10,,0,7,1994,No
 1600,55,Yes,,436.0,,2,1,Medical,3,M,37.0,3,2,Sales executive,4,Single,,21519,4,,16,3.0,3,0,,3,2.0,9,,7,3,1968,Yes
-1601,28,No,,760.0,Sales,43,4,,43,F,81.0,3,2,Sales executive,2,,,3698,1,,20,4.0,1,0,8.0,2,3.0,8,,7,5,1995,No
+1601,28,No,,760.0,Sales,43,4,,4,F,81.0,3,2,Sales executive,2,,,3698,1,,20,4.0,1,0,8.0,2,3.0,8,,7,5,1995,No
 1602,26,Yes,,,,5,2,Medical,3,F,88.0,2,1,Research scientist,3,Married,2366.0,20898,1,,14,3.0,1,1,8.0,2,3.0,8,,1,7,1997,Yes
 1603,44,No,,661.0,,9,2,,2,M,61.0,3,1,Research scientist,1,,,7508,1,Yes,13,3.0,4,0,8.0,0,3.0,8,,7,1,1979,No
 1604,41,Yes,,1085.0,Research & development,2,4,Life sciences,2,F,,1,1,Laboratory technician,4,Divorced,,17725,4,Yes,13,3.0,3,1,,1,2.0,7,,1,0,1982,Yes
@@ -1610,6 +1610,6 @@
 1608,32,No,,498.0,,3,4,Medical,3,F,93.0,3,2,Manufacturing director,1,Married,6725.0,13554,1,,12,3.0,3,1,8.0,2,4.0,8,,6,3,1991,Yes
 1609,36,Yes,Travel rarely,530.0,,3,1,Life sciences,3,M,51.0,2,3,Sales executive,4,Married,10325.0,5518,1,,11,,1,1,,6,3.0,16,,3,7,1987,No
 1610,45,No,Non travel,805.0,,4,2,,3,M,57.0,3,2,Laboratory technician,2,,4447.0,23163,1,,12,3.0,2,0,,5,2.0,9,,0,8,1978,Yes
-1611,39,No,Travel rarely,903.0,,13,5,,13,M,41.0,4,3,Sales executive,3,Single,,2560,0,No,18,3.0,4,0,9.0,3,3.0,8,,0,7,1984,Yes
+1611,39,No,Travel rarely,903.0,,13,5,,1,M,41.0,4,3,Sales executive,3,Single,,2560,0,No,18,3.0,4,0,9.0,3,3.0,8,,0,7,1984,Yes
 1612,36,No,Non travel,1229.0,,8,4,Technical degree,1,M,84.0,3,2,Sales executive,4,Divorced,,25952,4,No,13,,4,2,12.0,3,3.0,7,,0,7,1987,Yes
 1613,46,No,,566.0,,7,2,Medical,4,M,75.0,3,3,Manufacturing director,3,,10845.0,24208,6,,13,3.0,2,1,,3,3.0,8,,0,7,1977,No
