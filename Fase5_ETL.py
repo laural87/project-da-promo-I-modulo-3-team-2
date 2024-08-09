@@ -2,7 +2,11 @@
 import pandas as pd
 import sys
 import os
+import mysql.connector
+from dotenv import load_dotenv
+from src import Fase5_ETL_soporte_SQL as ca
 from src import Fase5_ETL_soporte as sp 
+
 
 # %%
 datos = sp.abrir_archivos()
@@ -52,3 +56,17 @@ print('='*80)
 sp.guardar_archivo(datos)
 print('Hemos guardado el archivo final 🆗 ')
 print('='*80)
+
+ca.dividimos_csv(datos)
+print('Hemos guardado los CSV divididos para tablas SQL 🆗 ')
+
+load_dotenv()
+passwordsql = os.getenv('password')
+usersql = os.getenv('user')
+hostsql = os.getenv('host')
+
+ca.create_bdd()
+
+ca.insert_empleados()
+
+ca.insertsatisfaction()
