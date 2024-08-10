@@ -57,8 +57,13 @@ sp.guardar_archivo(datos)
 print('Hemos guardado el archivo final 🆗 ')
 print('='*80)
 
+
+
 ca.dividimos_csv(datos)
 print('Hemos guardado los CSV divididos para tablas SQL 🆗 ')
+
+
+# %%
 
 load_dotenv()
 passwordsql = os.getenv('password')
@@ -67,6 +72,10 @@ hostsql = os.getenv('host')
 
 ca.create_bdd()
 
+ca.create_tables()
+
 ca.insert_empleados()
 
 ca.insertsatisfaction()
+
+# %%
