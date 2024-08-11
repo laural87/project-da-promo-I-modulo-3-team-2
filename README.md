@@ -1,4 +1,4 @@
-# Fuga de Cerebros
+# Fuga de Cerebros 🧠
 ## Hera Data
 ### Proyecto de Análisis de Datos y Experimentación A/B para ABC Corporation
 
@@ -145,7 +145,7 @@ Transformación de Datos
 Creación de la Base de Datos
 Carga de Datos
  
-Conclusiones:
+Conclusiones:📑
 
 ABC Corporation presenta una tasa de rotación del 16%, significativamente inferior al 27% observado en otras empresas del sector. Para entender mejor esta diferencia, segmentamos a los empleados en dos grupos basados en su nivel de satisfacción.
 Observamos que roles como "Representantes de ventas" y "Técnico de laboratorio" tienen una rotación significativamente mayor, posiblemente debido a la naturaleza competitiva de estos puestos o las condiciones del mercado laboral. Además, la rotación es más alta en los niveles jerárquicos más bajos, lo que podría reflejar menor satisfacción o limitadas oportunidades de crecimiento en estos niveles. Estos hallazgos subrayan la necesidad de implementar estrategias diferenciadas por rol y nivel jerárquico, para retener talento crítico y reducir la rotación en áreas clave.
