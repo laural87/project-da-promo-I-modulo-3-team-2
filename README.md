@@ -8,9 +8,11 @@ Para el desarrollo de este proyecto hemos aplicado la metodologia Agile , dividi
 Planificación del Sprint:
 Al inicio de cada sprint, se realizó una reunión de planificación donde el equipo y el Product Owner identificaron las tareas más importantes y las estimaron en términos de esfuerzo y tiempo. El equipo comprometió un conjunto de tareas que se completarían durante el sprint.
 Desarrollo Iterativo:
-El trabajo fue desarrollado de manera incremental, permitiendo al equipo ajustar el rumbo según los comentarios recibidos al final de cada sprint. Las tareas incluían [descripción breve de las principales actividades, como análisis de datos, construcción de modelos, visualización de datos, etc.].
+El trabajo fue desarrollado de manera incremental, permitiendo al equipo ajustar el rumbo según los comentarios recibidos al final de cada sprint. Las tareas incluían descripción breve de las principales actividades, como análisis de datos, construcción de modelos, visualización de datos, etc.
+
 Revisión y Retrospectiva:
 Al final de cada sprint, se llevó a cabo una reunión de revisión para presentar los resultados del sprint a los interesados y recibir feedback. Esto garantizó que el trabajo cumpliera con los requisitos del negocio y permitió realizar ajustes antes de avanzar. Posteriormente, en la retrospectiva, el equipo discutió qué funcionó bien y qué áreas necesitaban mejoras, implementando estos aprendizajes en el siguiente sprint.
+
 Entrega Continua:
 Durante todo el proyecto, se priorizó la entrega continua de valor. Cada sprint resultó en una versión funcional del proyecto, que podía ser revisada y probada por los usuarios, asegurando que el producto final se alineara estrechamente con las necesidades del cliente.
 Gracias a la flexibilidad de Agile, el equipo pudo adaptarse rápidamente a los cambios en los requisitos y las prioridades del proyecto. Esto resultó en la entrega de  un producto final de calidad , en el que destacan sus resultados.  
@@ -128,6 +130,7 @@ Inserción de Datos Iniciales
    (agregar imagenes de las base de datos en slak)
 
 ![Base de datos ](img/BBDD.png)
+
 4.Experimentación A/B:Prueba de hipótesis relacionada con la satisfacción laboral y la rotación de empleados, analizando los resultados.
 Por favor, ejecute el archivo Fase4_ABTesting.ipynb para ver lso resultados. 
    grafico ab testing
