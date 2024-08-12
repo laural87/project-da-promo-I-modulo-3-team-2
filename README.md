@@ -127,13 +127,15 @@ Estos fueron los pasos a seguir:
 Diseño de la Estructura de la Base de Datos
 Creación de la Base de Datos
 Inserción de Datos Iniciales
-   (agregar imagenes de las base de datos en slak)
+   
 
 ![Base de datos ](img/BBDD.png)
 
+
 4.Experimentación A/B:Prueba de hipótesis relacionada con la satisfacción laboral y la rotación de empleados, analizando los resultados.
-Por favor, ejecute el archivo Fase4_ABTesting.ipynb para ver lso resultados. 
-   grafico ab testing
+Por favor, ejecute el archivo Fase4_ABTesting.ipynb para ver los  resultados. 
+
+   
    ![A/B testing](img/ABtesting.png)
 
 
