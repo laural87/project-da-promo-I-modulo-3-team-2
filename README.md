@@ -154,9 +154,13 @@ Observamos que roles como "Representantes de ventas" y "Técnico de laboratorio"
 Examinamos la tendencia de rotación en función de los años de antigüedad en la empresa. Dos patrones importantes emergen: en primer lugar, existe una alta rotación durante los primeros 0-5 años de empleo, lo que sugiere desafíos en la integración y en la gestión de expectativas iniciales. En segundo lugar, se observan picos significativos en la rotación en torno a los 20 y 40 años de antigüedad, lo que podría estar relacionado con la jubilación anticipada o con una percepción de estancamiento profesional. Estos resultados destacan la importancia de optimizar el proceso de onboarding y de fomentar el desarrollo profesional continuo a lo largo de toda la carrera del empleado en la empresa.
 
 Tecnologías Utilizadas
+
 Python: Para análisis de datos y desarrollo de funciones ETL.
+
 Pandas: Para manejo y manipulación de datos.
+
 SQL: Para creación e interacción con la base de datos.
+
 Matplotlib/Seaborn: Para visualización de datos.
 
 Contacto
